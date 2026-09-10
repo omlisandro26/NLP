@@ -2,10 +2,10 @@
 
 ## 1. Categoría seleccionada
 
-* **Nombre de la categoría:** Cocina
+* **Nombre de la categoría:** Aventuras
 * **URL de la categoría:** https://ww3.lectulandia.co/search/cocina
 * **Cantidad de libros que se propone extraer:** 100
-* **Criterio utilizado para seleccionar las páginas:** Se van a recorrer las páginas de resultados de la categoría Cocina y se van a tomar las fichas de los libros hasta llegar a la cantidad necesaria.
+* **Criterio utilizado para seleccionar las páginas:** Se van a recorrer las páginas de resultados de la categoría Aventuras y se van a tomar las fichas de los libros hasta llegar a la cantidad necesaria.
 
 ---
 
