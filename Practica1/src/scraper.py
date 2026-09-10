@@ -14,7 +14,7 @@ OBJETIVO_LIBROS = 200  # Entre 100 y 200 libros
 TOTAL_PAGINAS_DISPONIBLES = 17
 ARCHIVO_CSV = "NLP/Practica1/data/libros.csv"
 
-async def extraer_datos_ficha(page, url_libro):
+async def extraer_datos_ficha(page, url_libro, id):
     """Visita la ficha individual del libro y extrae metadatos y sinopsis completa."""
     try:
         await page.goto(url_libro, wait_until="domcontentloaded", timeout=30000)
@@ -52,6 +52,7 @@ async def extraer_datos_ficha(page, url_libro):
         sinopsis = sinopsis_elem.get_text(separator=" ", strip=True) if sinopsis_elem else None
 
         return {
+            "id": id,
             "titulo": titulo,
             "autores": autores,
             "generos": generos,
@@ -117,7 +118,8 @@ async def visitar_fichas(page, urls_libros):
     buffer_registros = []
     for i, url in enumerate(urls_libros, start=1):
         print(f"[{i}/{len(urls_libros)}] Extrayendo: {url}")
-        datos = await extraer_datos_ficha(page, url)
+        datos = await extraer_datos_ficha(page, url, id)
+        
 
         if datos:
             buffer_registros.append(datos)
