@@ -33,6 +33,24 @@ Durante el desarrollo del scraper se presentaron las siguientes dificultades:
 
 
 
+## Metadatos y sinopsis extraídos
+
+Para cada libro se recopilaron sus principales *metadatos bibliográficos y de extracción*, además de la sinopsis. Los datos almacenados en el archivo CSV son:
+* id: identificador asignado al libro.
+* titulo: título de la obra.
+* autores: autor o autores de la obra.
+* generos: géneros literarios asociados al libro.
+* serie: nombre de la serie a la que pertenece el libro, cuando está disponible.
+* sinopsis: descripción o resumen del contenido del libro.
+* url_libro: enlace a la ficha individual del libro en Lectulandia.
+* categoria_origen: categoría de Lectulandia desde la cual se obtuvo el libro.
+* fecha_extraccion: fecha y hora en la que se realizó la extracción.
+
+De esta manera, cada registro contiene información suficiente para *identificar, clasificar y localizar el libro*, junto con una descripción de su contenido y los datos relacionados con el proceso de extracción.
+
+
+
+
 ## REQUISITOS — Ejecutar en la terminal ANTES de ejecutar el script
 
 ### 1. Crear un entorno virtual
