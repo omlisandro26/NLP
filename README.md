@@ -80,7 +80,7 @@ En Linux:
 
 ### 3. Instalar las librerías necesarias
 
-    pip install -r Practica1/requirements.txt
+    pip install -r requirements.txt
 
 En Linux, si no funciona el pip, con:
     pip3 install -r requirements.txt

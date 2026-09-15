@@ -1,21 +1,18 @@
 from pathlib import Path
-from shutil import copy2
 
 import pandas as pd
+import ast
 
-from procesamiento_de_texto import (
+from src.procesamiento_de_texto import (
     acentos_dieresis_virgulilla,
     minusculas,
     puntuacion,
     stopwords,
 )
 
-
 RUTA_PROYECTO = Path(__file__).resolve().parents[2]
 RUTA_CSV_ORIGINAL = RUTA_PROYECTO / "Practica1" / "data" / "libros.csv"
-RUTA_CSV_COPIA = RUTA_PROYECTO / "Practica 2" / "data" / "libros_copia.csv"
 RUTA_CSV_LIMPIO = RUTA_PROYECTO / "Practica 2" / "data" / "libros_limpios.csv"
-
 
 STOPWORDS_ES = {
     "a", "al", "algo", "algunas", "algunos", "ante", "antes", "como",
@@ -29,15 +26,11 @@ STOPWORDS_ES = {
     "tu", "tus", "un", "una", "unas", "uno", "unos", "y", "ya",
 }
 
-
 COLUMNAS_DE_TEXTO = [
     "titulo",
-    "autores",
-    "generos",
     "serie",
     "sinopsis",
 ]
-
 
 def limpiar_texto(texto):
     """Aplica todas las funciones de procesamiento de texto en orden."""
@@ -47,7 +40,6 @@ def limpiar_texto(texto):
     texto = stopwords(texto, STOPWORDS_ES)
     return texto
 
-
 def limpiar_libros():
     """Copia el CSV original, limpia sus columnas textuales y crea otro CSV."""
     if not RUTA_CSV_ORIGINAL.exists():
@@ -55,10 +47,7 @@ def limpiar_libros():
             f"No se encontró el CSV original: {RUTA_CSV_ORIGINAL}"
         )
 
-    RUTA_CSV_COPIA.parent.mkdir(parents=True, exist_ok=True)
-    copy2(RUTA_CSV_ORIGINAL, RUTA_CSV_COPIA)
-
-    libros = pd.read_csv(RUTA_CSV_COPIA, keep_default_na=False)
+    libros = pd.read_csv(RUTA_CSV_ORIGINAL, keep_default_na=False)
     columnas_faltantes = [
         columna for columna in COLUMNAS_DE_TEXTO if columna not in libros.columns
     ]
@@ -68,11 +57,11 @@ def limpiar_libros():
     for columna in COLUMNAS_DE_TEXTO:
         libros[columna] = libros[columna].map(limpiar_texto)
 
+    libros["autores"] = libros["autores"].apply(ast.literal_eval)
+    libros["generos"] = libros["generos"].apply(ast.literal_eval)
+    libros["autores"] = libros["autores"].apply(lambda autores: list(map(limpiar_texto, autores)))
+    libros["generos"] = libros["generos"].apply(lambda generos: list(map(limpiar_texto, generos)))
+
     libros.to_csv(RUTA_CSV_LIMPIO, index=False, encoding="utf-8")
-    print(f"Copia creada: {RUTA_CSV_COPIA}")
     print(f"CSV limpio creado: {RUTA_CSV_LIMPIO}")
     print(f"Registros procesados: {len(libros)}")
-
-
-if __name__ == "__main__":
-    limpiar_libros()
