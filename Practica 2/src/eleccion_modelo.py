@@ -140,7 +140,7 @@ def evaluar_pares(modelo, pares):
     return np.mean(resultados)
 
 
-def bucle_principa():
+def entrenar_modelos():
 
     libros = pd.read_csv('NLP/Practica 2/data/libros_limpios.csv')
 
@@ -207,6 +207,79 @@ def bucle_principa():
 
     return modelos_word2vec
 
+def seleccionar_mejor_modelo(modelos_word2vec, pares):
+    """
+    Selecciona el mejor modelo Word2Vec basado en la similitud promedio
+    de los pares de palabras.
+
+    Arguments:
+        modelos_word2vec: Diccionario con los modelos Word2Vec entrenados.
+        pares: Lista de tuplas (palabra1, palabra2).
+
+    Returns:
+        tuple: (nombre del mejor modelo, similitud promedio)
+    """
+
+    promedios = evaluar_modelos(modelos_word2vec, pares)
+
+    if not promedios:
+        print("No se encontraron palabras en el vocabulario de los modelos.")
+        return None, None
+
+    mejor_modelo = max(promedios, key=promedios.get)
+    mejor_similitud = promedios[mejor_modelo]
+
+    return mejor_modelo, mejor_similitud
+
+def guardar_modelo(modelo, nombre_modelo):
+    """
+    Guarda el modelo Word2Vec en un archivo.
+
+    Arguments:
+        modelo: Modelo Word2Vec entrenado.
+        nombre_modelo: Nombre del archivo donde se guardará el modelo.
+    """
+
+    ruta_modelo = f"NLP/Practica 2/modelos/{nombre_modelo}.model"
+    modelo.save(ruta_modelo)
+    print(f"Modelo guardado en: {ruta_modelo}")
+
+def guardar_combinación_parametros(nombre_modelo):
+    """
+    Guarda la combinación de parámetros del mejor modelo en un archivo de texto.
+
+    Arguments:
+        nombre_modelo: Nombre del archivo donde se guardará la combinación de parámetros.
+    """
+
+    ruta_parametros = "NLP/Practica 2/modelos/mejor_modelo_parametros.txt"
+    with open(ruta_parametros, "w", encoding="utf-8") as f:
+        f.write(
+            f"Mejor modelo: {nombre_modelo}\n"
+            f"Parámetros: {nombre_modelo.split('_')[3:]}\n"
+        )
+    print(f"Combinación de parámetros guardada en: {ruta_parametros}")
+
+def cargar_modelo(nombre_modelo):
+    """
+    Carga un modelo Word2Vec desde un archivo.
+
+    Arguments:
+        nombre_modelo: Nombre del archivo del modelo a cargar.
+
+    Returns:
+        Word2Vec: Modelo Word2Vec cargado.
+    """
+
+    ruta_modelo = f"NLP/Practica 2/modelos/{nombre_modelo}.model"
+    if os.path.exists(ruta_modelo):
+        modelo = Word2Vec.load(ruta_modelo)
+        print(f"Modelo cargado desde: {ruta_modelo}")
+        return modelo
+    else:
+        print(f"No se encontró el modelo en: {ruta_modelo}")
+        return None
+
 def evaluar_modelos(modelos_word2vec, pares):
     """
     Evalúa todos los modelos Word2Vec entrenados utilizando los pares de palabras.
@@ -232,22 +305,23 @@ def evaluar_modelos(modelos_word2vec, pares):
 
     return promedios
 
-if __name__ == "__main__":
-    modelos = bucle_principa()
+def main():
+    modelos = entrenar_modelos()
 
     pares = [
-            ("abuelo", "nieto"),
-            ("padre", "hijo"),
-            ("rey", "reina"),
-            ("guerra", "batalla"),
-            ("amor", "corazón"),
-            ("viaje", "aventura"),
-        ]
+        ("abuelo", "nieto"),
+        ("padre", "hijo"),
+        ("rey", "reina"),
+        ("guerra", "batalla"),
+        ("amor", "corazón"),
+        ("viaje", "aventura"),
+    ]
 
-    promedios = evaluar_modelos(modelos, pares)
+    mejor_modelo, mejor_similitud = seleccionar_mejor_modelo(modelos, pares)
 
-    mejor_modelo = max(promedios, key=promedios.get)
-    print(f"El mejor modelo es: {mejor_modelo}, con una similitud promedio de: {promedios[mejor_modelo]}")
-
-    modelo_word2vec = modelos[mejor_modelo]
-    modelo_word2vec.save(f"NLP/Practica 2/modelos/{mejor_modelo}.model")
+    if mejor_modelo:
+        print(f"El mejor modelo es: {mejor_modelo}, con una similitud promedio de: {mejor_similitud}")
+        guardar_modelo(modelos[mejor_modelo], mejor_modelo)
+        guardar_combinación_parametros(mejor_modelo)
+    else:
+        print("No se pudo determinar el mejor modelo.")

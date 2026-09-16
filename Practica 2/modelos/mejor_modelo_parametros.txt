@@ -1,0 +1,2 @@
+Mejor modelo: modelo_word2vec_200_6_5_1
+Parámetros: ['6', '5', '1']
