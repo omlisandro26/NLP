@@ -31,6 +31,9 @@ Durante el desarrollo del scraper se presentaron las siguientes dificultades:
 - Identificar correctamente los selectores CSS de los elementos dentro de las fichas individuales de los libros.
 - ...
 
+## Versión de python
+
+La version que se utiliza para este trabajo practico, es la version de python 3.13.15
 
 
 ## Metadatos y sinopsis extraídos

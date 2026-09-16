@@ -2,3 +2,5 @@ playwright
 pandas
 beautifulsoup4
 psycopg[binary]
+gensim
+gdown
