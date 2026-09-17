@@ -2,8 +2,9 @@ import pandas as pd
 from gensim.models import KeyedVectors, Word2Vec
 import gdown
 import os
-import abrir_archivo_csv
 import ast
+
+from src import evaluar_modelos, abrir_archivo_csv
 
 ruta_modelo = 'NLP/Practica 2/modelos/SBW-vectors-300-min5.bin.gz'
 url = "https://drive.google.com/uc?id=1V8hNcnGEyrz0c_dA-v0_5sg31bNgy75r"
@@ -43,8 +44,26 @@ def tokenizar(dataset: pd.DataFrame, columna : str):
     """
     return dataset[columna].apply(lambda x: str(x).split())
 
-def bucle_principa():
-    libros = abrir_archivo_csv.abrir_archivo_csv('NLP/Practica 2/datos/entrada.csv')
+def parametros_word2vec(ruta_parametros):
+    with open(ruta_parametros, "r", encoding="utf-8") as archivo:
+        lineas = archivo.readlines()
+        for linea in lineas:
+            print(linea.strip())
+
+    modelo, parametros = None, None
+
+    for linea in lineas:
+        if "Mejor modelo" in linea:
+            modelo = linea.split(":")[1].strip()
+
+        if "Parámetros" in linea:
+            parametros = linea.split(":")[1].strip()
+
+    parametros = ast.literal_eval(parametros)
+    return modelo, parametros
+
+def bucle_principal(ruta_csv, ruta_parametros, ruta_modelos):
+    libros = abrir_archivo_csv.abrir_archivo_csv(ruta_csv)
     libros["autores"] = libros["autores"].apply(ast.literal_eval)
     libros["generos"] = libros["generos"].apply(ast.literal_eval)
     COLUMNAS_DE_TEXTO = [
@@ -53,5 +72,14 @@ def bucle_principa():
         "sinopsis",
     ]
 
-    for columna in COLUMNAS_DE_TEXTO:
-        libros[columna] = tokenizar(libros, columna)
+    # for columna in COLUMNAS_DE_TEXTO:
+    #     libros[columna] = tokenizar(libros, columna)
+
+    sentences = tokenizar(libros, "sinopsis")
+
+    modelo, parametros = parametros_word2vec(ruta_parametros)
+    ruta_modelo_guardado = os.path.join(ruta_modelos, modelo + ".model")
+    if os.path.exists(ruta_modelo_guardado):
+        modelo_word2vec = Word2Vec.load(ruta_modelo_guardado)
+
+    modelo_sbw = SBW_modelo()

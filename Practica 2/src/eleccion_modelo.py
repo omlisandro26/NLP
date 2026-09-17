@@ -64,10 +64,8 @@ def tokenizar(dataset: pd.DataFrame, columna: str):
         lambda x: str(x).split()
     )
 
-
 def entrenar_modelo_word2vec(
-    dataset: pd.DataFrame,
-    columna: str,
+    sentences: pd.DataFrame,
     vector_size=100,
     window=5,
     min_count=1,
@@ -78,8 +76,7 @@ def entrenar_modelo_word2vec(
     Entrena un modelo Word2Vec utilizando la columna especificada.
 
     Arguments:
-        dataset: pd.DataFrame - DataFrame que contiene la columna.
-        columna: str - Nombre de la columna que se desea utilizar.
+        sentences: pd.DataFrame - DataFrame que contiene las oraciones ya tokenizadas.
         vector_size: int - Dimensionalidad de los vectores.
         window: int - Tamaño de la ventana de contexto.
         min_count: int - Mínimo número de ocurrencias.
@@ -91,8 +88,6 @@ def entrenar_modelo_word2vec(
     Returns:
         Word2Vec - Modelo Word2Vec entrenado.
     """
-
-    sentences = tokenizar(dataset, columna)
 
     modelo_word2vec = word2vec(
         sentences,
@@ -185,8 +180,7 @@ def entrenar_modelos():
                     )
 
                     modelo_word2vec = entrenar_modelo_word2vec(
-                        libros,
-                        "sinopsis",
+                        sentences,
                         vector_size=vector_size,
                         window=window,
                         min_count=min_count,
@@ -256,7 +250,7 @@ def guardar_combinación_parametros(nombre_modelo):
     with open(ruta_parametros, "w", encoding="utf-8") as f:
         f.write(
             f"Mejor modelo: {nombre_modelo}\n"
-            f"Parámetros: {nombre_modelo.split('_')[3:]}\n"
+            f"Parámetros: {nombre_modelo.split('_')[2:]}\n"
         )
     print(f"Combinación de parámetros guardada en: {ruta_parametros}")
 
