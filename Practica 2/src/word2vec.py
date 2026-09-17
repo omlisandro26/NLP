@@ -4,12 +4,14 @@ import gdown
 import os
 import ast
 
+from collections import Counter
+
 from src import evaluar_modelos, abrir_archivo_csv
 
-ruta_modelo = 'NLP/Practica 2/modelos/SBW-vectors-300-min5.bin.gz'
+# ruta_modelo = 'NLP/Practica 2/modelos/SBW-vectors-300-min5.bin.gz'
 url = "https://drive.google.com/uc?id=1V8hNcnGEyrz0c_dA-v0_5sg31bNgy75r"
 
-def descarga_modelo():
+def descarga_modelo(ruta_modelo):
     """
     Descarga el modelo SBW (Spanish Billion Words) desde Google Drive y lo guarda en la ruta especificada.
     Crea los directorios necesarios si no existen.
@@ -17,7 +19,7 @@ def descarga_modelo():
     os.makedirs(os.path.dirname(ruta_modelo), exist_ok=True)
     gdown.download(url, ruta_modelo, quiet=False)
 
-def SBW_modelo():
+def SBW_modelo(ruta_modelo):
     """
     Carga el modelo SBW (Spanish Billion Words) desde la ruta especificada.
     Si el modelo no existe, lo descarga primero.
@@ -25,7 +27,7 @@ def SBW_modelo():
         KeyedVectors: El modelo SBW cargado.
     """
     if not os.path.exists(ruta_modelo):
-        descarga_modelo()
+        descarga_modelo(ruta_modelo)
 
     model = KeyedVectors.load_word2vec_format(ruta_modelo, binary=True)
     return model
@@ -62,6 +64,16 @@ def parametros_word2vec(ruta_parametros):
     parametros = ast.literal_eval(parametros)
     return modelo, parametros
 
+def palabras_dominio(libros):
+    palabras = []
+
+    for texto in libros["sinopsis"]:
+        palabras.extend(str(texto).split())
+
+    frecuencias = Counter(palabras)
+
+    return [palabra for palabra, frecuencia in frecuencias.most_common(4)]
+
 def bucle_principal(ruta_csv, ruta_parametros, ruta_modelos):
     libros = abrir_archivo_csv.abrir_archivo_csv(ruta_csv)
     libros["autores"] = libros["autores"].apply(ast.literal_eval)
@@ -82,4 +94,19 @@ def bucle_principal(ruta_csv, ruta_parametros, ruta_modelos):
     if os.path.exists(ruta_modelo_guardado):
         modelo_word2vec = Word2Vec.load(ruta_modelo_guardado)
 
-    modelo_sbw = SBW_modelo()
+    ruta_sbw = os.path.join(ruta_modelos, "SBW-vectors-300-min5.bin.gz")
+
+    modelo_sbw = SBW_modelo(ruta_sbw)
+
+    palabras_frecuentes = palabras_dominio(libros)
+
+    resultados_word2vec =evaluar_modelos.evaluar_vecinos(modelo_word2vec.wv, palabras_frecuentes, topn=5)
+    resultados_sbw = evaluar_modelos.evaluar_vecinos(modelo_sbw,palabras_frecuentes, topn=5)
+
+    print("Resultados Word2Vec:")
+    for palabra, vecinos in resultados_word2vec.items():
+        print(f"  {palabra}: {vecinos}")
+
+    print("Resultados SBW:")
+    for palabra, vecinos in resultados_sbw.items():
+        print(f"  {palabra}: {vecinos}")

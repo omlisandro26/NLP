@@ -1,33 +1,27 @@
-def metricas_embeddings(modelo):
+def evaluar_vecinos(modelo, palabras, topn=5):
     """
-    Calcula las métricas de embeddings para un modelo dado.
-    Arguments:
-        modelo: El modelo de embeddings (Word2Vec o KeyedVectors).
-    Returns:
-        dict: Un diccionario con las métricas calculadas.
-    """
-    # Aquí puedes agregar las métricas que desees calcular, por ejemplo:
-    # - Número de palabras en el vocabulario
-    # - Dimensionalidad de los embeddings
-    # - Ejemplos de palabras similares
-    # - etc.
-    
-    metricas = {
-        "vocabulario": len(modelo.key_to_index),
-        "dimensionalidad": modelo.vector_size,
-        # Agrega más métricas según sea necesario
-    }
+    Obtiene los vecinos más similares de una lista de palabras.
 
-    return metricas
-
-def evaluar_vecinos(modelo, palabras, topn = 5):
-    """
-    Evalúa los vecinos más similares de una lista de cuatros palabras que se encuentra en dominio de un modelo de embeddings.
     Arguments:
-        modelo: El modelo de embeddings (Word2Vec o KeyedVectors).
-        palabras: Una lista de palabras para las cuales se quieren encontrar vecinos.
-        topn: El número de vecinos más similares a devolver para cada palabra.
+        modelo: Modelo Word2Vec o KeyedVectors.
+        palabras: Lista de palabras.
+        topn: Cantidad de vecinos a devolver.
+
     Returns:
-        dict: Un diccionario con las palabras como claves y sus vecinos más similares como valores.
+        dict: Diccionario donde cada palabra tiene asociados sus vecinos
+              más similares y su similitud.
     """
-    pass
+
+    resultados = {}
+
+    for palabra in palabras:
+
+        if palabra not in modelo.key_to_index:
+            resultados[palabra] = None
+            continue
+
+        vecinos = modelo.most_similar(palabra, topn=topn)
+
+        resultados[palabra] = vecinos
+
+    return resultados
