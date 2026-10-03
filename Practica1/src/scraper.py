@@ -12,7 +12,7 @@ URL_INICIAL = "https://ww3.lectulandia.com/genero/aventuras/"
 CATEGORIA_NOMBRE = "Aventuras"
 OBJETIVO_LIBROS = 200  # Entre 100 y 200 libros
 TOTAL_PAGINAS_DISPONIBLES = 17
-ARCHIVO_CSV = "NLP/Practica1/data/libros.csv"
+ARCHIVO_CSV = os.path.join("Practica1", "data", "libros.csv")
 
 async def extraer_datos_ficha(page, url_libro, id):
     """Visita la ficha individual del libro y extrae metadatos y sinopsis completa."""
@@ -118,7 +118,7 @@ async def visitar_fichas(page, urls_libros):
     buffer_registros = []
     for i, url in enumerate(urls_libros, start=1):
         print(f"[{i}/{len(urls_libros)}] Extrayendo: {url}")
-        datos = await extraer_datos_ficha(page, url, id)
+        datos = await extraer_datos_ficha(page, url, i)
         
 
         if datos:

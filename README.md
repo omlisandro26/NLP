@@ -1,6 +1,6 @@
-# Práctica 1 - Corpus de libros
+# Procesamiento del Lenguaje Natural
 
-Extracción de metadatos y sinopsis de libros de Lectulandia utilizando Playwright, BeautifulSoup y pandas.
+Repositorio de trabajos prácticos de la materia **Procesamiento del Lenguaje Natural (NLP)**. Reúne dos prácticas relacionadas: la construcción de un corpus de libros y el uso de embeddings para representar y comparar textos.
 
 ## Integrantes del grupo
 
@@ -10,96 +10,112 @@ Extracción de metadatos y sinopsis de libros de Lectulandia utilizando Playwrig
 - Aldana Sánchez Desiré
 - Lisandro Odisio Martinelli
 
-## Categoría seleccionada
+## Estructura del repositorio
 
-La categoría seleccionada para la extracción es **Aventuras** de Lectulandia.
+```text
+NLP/
+├── requirements.txt
+├── Practica1/
+│   ├── README.md
+│   ├── Práctica  unidad 1.pdf
+│   ├── data/
+│   │   └── libros.csv
+│   ├── docs/
+│   │   └── diseno_extraccion.md
+│   └── src/
+│       └── scraper.py
+└── Practica 2/
+    ├── Enunciado_TP2_embeddings.md.pdf
+    ├── tp_Grimaldi_Añaños_Marzol_Sánchez_Martinelli.ipynb
+    ├── data/
+    │   └── libros_limpios.csv
+    └── modelos/
+        ├── mejor_modelo_parametros.txt
+        ├── modelo_word2vec_200_6_5_1.model
+        └── SBW-vectors-300-min5.bin.gz
+```
 
-La extracción se realizó recorriendo las páginas disponibles de esta categoría hasta alcanzar la cantidad de libros establecida como objetivo.
+Cada carpeta de práctica contiene su propio enunciado en PDF. La documentación específica de la primera práctica está en [Practica1/README.md](Practica1/README.md).
 
-## Cantidad de libros extraídos
+## Resumen de las prácticas
 
-Se extrajeron **200 libros** de la categoría **Aventuras**.
+### Práctica 1 — Extracción y procesamiento de texto
 
-Los registros obtenidos se encuentran almacenados en el archivo:
+La consigna propone crear un corpus de entre 100 y 200 libros de una categoría de Lectulandia. El scraper navega las páginas con Playwright, analiza su HTML con BeautifulSoup y guarda en CSV metadatos bibliográficos y sinopsis, evitando duplicados. La categoría elegida es **Aventuras**.
 
-`Practica1/data/libros.csv`
+El diseño previo de la extracción se documenta en `Practica1/docs/diseno_extraccion.md`; el resultado se guarda en `Practica1/data/libros.csv`.
 
-## Principales dificultades encontradas
+### Práctica 2 — Embeddings y búsqueda semántica
 
-Durante el desarrollo del scraper se presentaron las siguientes dificultades:
+Esta práctica aborda cómo representar el significado de libros y consultas con vectores densos, para encontrar textos relacionados aunque no compartan exactamente las mismas palabras. El notebook parte del corpus de la práctica 1, prepara los textos y trabaja con modelos Word2Vec propios, vectores preentrenados en español (SBW) y embeddings de oraciones.
 
-- Identificar correctamente los selectores CSS de los elementos dentro de las fichas individuales de los libros.
-- ...
+El enunciado también plantea comparar los modelos con una línea de base léxica, evaluar resultados con consultas relevantes, visualizar los vectores y persistirlos en PostgreSQL con pgvector para realizar búsquedas por similitud. Consultá el PDF de esta carpeta para el alcance completo de la consigna; los archivos y el notebook incluidos muestran el material disponible en el repositorio.
 
-## Versión de python
+## Requisitos
 
-La version que se utiliza para este trabajo practico, es la version de python 3.13.15
+- Python **3.13** recomendado.
+- Dependencias Python declaradas en `requirements.txt` (Playwright, pandas, BeautifulSoup, gensim, sentence-transformers, entre otras).
+- Chromium de Playwright para ejecutar el scraper.
+- JupyterLab para abrir y ejecutar localmente el notebook (incluido en `requirements.txt`).
+- Conexión a Internet para la extracción desde Lectulandia y para descargar modelos que no estén disponibles localmente.
+- Para desarrollar la parte de persistencia/búsqueda de la consigna de práctica 2: PostgreSQL con la extensión **pgvector** instalada y habilitada. Instalar las dependencias Python por sí solo no configura el servidor ni la extensión.
 
+## Instalación
 
-## Metadatos y sinopsis extraídos
+Ejecutá los comandos desde la raíz del repositorio.
 
-Para cada libro se recopilaron sus principales *metadatos bibliográficos y de extracción*, además de la sinopsis. Los datos almacenados en el archivo CSV son:
-* id: identificador asignado al libro.
-* titulo: título de la obra.
-* autores: autor o autores de la obra.
-* generos: géneros literarios asociados al libro.
-* serie: nombre de la serie a la que pertenece el libro, cuando está disponible.
-* sinopsis: descripción o resumen del contenido del libro.
-* url_libro: enlace a la ficha individual del libro en Lectulandia.
-* categoria_origen: categoría de Lectulandia desde la cual se obtuvo el libro.
-* fecha_extraccion: fecha y hora en la que se realizó la extracción.
+### Windows (PowerShell)
 
-De esta manera, cada registro contiene información suficiente para *identificar, clasificar y localizar el libro*, junto con una descripción de su contenido y los datos relacionados con el proceso de extracción.
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+playwright install chromium
+```
 
+Si PowerShell bloquea la activación del entorno, se puede usar el intérprete directamente, por ejemplo: `.venv\Scripts\python.exe -m pip install -r requirements.txt`.
 
+### Linux o macOS
 
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+playwright install chromium
+```
 
-## REQUISITOS — Ejecutar en la terminal ANTES de ejecutar el script
+En Linux, si Chromium no puede iniciarse por dependencias del sistema, ejecutá `playwright install-deps`.
 
-### 1. Crear un entorno virtual
+## Ejecución
 
-Se debera situarce dentro de la carpeta de NLP y ahi mismo, crear el entorno virtual.
+### Práctica 1: scraper
 
-En Windows:
+Desde la raíz del repositorio, con el entorno activado:
 
-    python -m venv .venv
+```bash
+python Practica1/src/scraper.py
+```
 
-En linux:
+El programa recorre la categoría Aventuras y guarda los resultados en `Practica1/data/libros.csv`. La extracción requiere acceso a Internet y puede tardar porque visita las páginas de resultados y las fichas individuales.
 
-    python3 -m venv .venv
+### Práctica 2: notebook
 
-### 2. Activar el entorno virtual
+Con el entorno activado, iniciá JupyterLab desde la raíz:
 
-En Windows (CMD):
+```bash
+jupyter lab
+```
 
-    .venv\Scripts\activate
+Luego abrí `Practica 2/tp_Grimaldi_Añaños_Marzol_Sánchez_Martinelli.ipynb` y ejecutá sus celdas en orden. El notebook utiliza el CSV de la práctica 1 y guarda sus resultados en `Practica 2/data/` y `Practica 2/modelos/`. La descarga del modelo preentrenado SBW requiere una conexión a Internet y espacio de almacenamiento; el archivo comprimido incluido ocupa aproximadamente 1,1 GB.
 
-En Windows (PowerShell):
+## Archivos principales
 
-    .venv\Scripts\Activate.ps1
-
-En Linux:
-    source .venv/bin/activate
-
-### 3. Instalar las librerías necesarias
-
-    pip install -r requirements.txt
-
-En Linux, si no funciona el pip, con:
-    pip3 install -r requirements.txt
-
-### 4. Instalar el navegador de Playwright
-
-    playwright install chromium
-
-En Linux, si Chromium requiere dependencias del sistema:
-
-    playwright install-deps
-
-### 5. Ejecutar el scraper
-
-    python scraper.py
-
-En Linux tambien:
-
-    python3 scraper.py
+- `requirements.txt`: dependencias compartidas por las prácticas.
+- `Practica1/src/scraper.py`: extracción web del corpus.
+- `Practica1/data/libros.csv`: corpus de libros de la práctica 1.
+- `Practica1/docs/diseno_extraccion.md`: diseño de la extracción.
+- `Practica 2/tp_Grimaldi_Añaños_Marzol_Sánchez_Martinelli.ipynb`: notebook de procesamiento y experimentos con embeddings.
+- `Practica 2/data/libros_limpios.csv`: versión procesada del corpus.
+- `Practica 2/modelos/`: modelos y parámetros guardados.

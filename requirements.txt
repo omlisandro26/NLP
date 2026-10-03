@@ -6,3 +6,5 @@ gensim
 gdown
 sentence-transformers
 prettytable
+jupyterlab
+ipykernel
