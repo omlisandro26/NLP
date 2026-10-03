@@ -1,10 +1,14 @@
 playwright
 pandas
 beautifulsoup4
-psycopg[binary]
 gensim
 gdown
 sentence-transformers
 prettytable
+<<<<<<< HEAD
 jupyterlab
 ipykernel
+=======
+matplotlib
+sklearn
+>>>>>>> 63677882b9f13f260d96862bafbdd5f7422d8e22
