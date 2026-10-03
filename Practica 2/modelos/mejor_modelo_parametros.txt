@@ -1,2 +1,2 @@
-Mejor modelo: modelo_word2vec_200_6_5_1
-Parámetros: ['200', '6', '5', '1']
+Mejor modelo: modelo_word2vec_200_6_2_1
+Parámetros: ['200', '6', '2', '1']

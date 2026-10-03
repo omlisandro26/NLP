@@ -1,3 +1,2 @@
 * text=auto eol=lf
 *.ipynb text eol=lf
-Practica[[:space:]]2/modelos/SBW-vectors-300-min5.bin.gz filter=lfs diff=lfs merge=lfs -text
