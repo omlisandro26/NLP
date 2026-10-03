@@ -5,3 +5,5 @@ gensim
 gdown
 sentence-transformers
 prettytable
+matplotlib
+sklearn
