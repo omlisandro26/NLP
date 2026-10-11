@@ -1,0 +1,1046 @@
+consulta_id,consulta,modelo,metodo,k,posicion,indice_libro,titulo,puntuacion
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,1,1,0,persiguiendo becquer,0.20155596222142974
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,3,1,0,persiguiendo becquer,0.20155596222142974
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,3,2,332,tinta fuego,0.08389311988045359
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,3,3,106,historia apolonio rey tiro,0.07982086218459822
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,5,1,0,persiguiendo becquer,0.20155596222142974
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,5,2,332,tinta fuego,0.08389311988045359
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,5,3,106,historia apolonio rey tiro,0.07982086218459822
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,5,4,10,becquer paris,0.07380400227616303
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,5,5,355,secreto elixir magico,0.060620976223800235
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,1,0,persiguiendo becquer,0.20155596222142974
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,2,332,tinta fuego,0.08389311988045359
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,3,106,historia apolonio rey tiro,0.07982086218459822
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,4,10,becquer paris,0.07380400227616303
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,5,355,secreto elixir magico,0.060620976223800235
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,6,68,biblioteca niebla,0.054622389967268814
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,7,101,damas vaqueros serie completa,0.05105246516886833
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,8,30,marca roja,0.04911799872800367
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,9,203,terradraga,0.047924859717801256
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,TF-IDF,Similitud,10,10,100,diario enano,0.043367006058251605
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,1,1,10,becquer paris,0.3500259518623352
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,3,1,10,becquer paris,0.3500259518623352
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,3,2,225,chancellor,0.3339543342590332
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,3,3,224,virada,0.3321068584918976
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,5,1,10,becquer paris,0.3500259518623352
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,5,2,225,chancellor,0.3339543342590332
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,5,3,224,virada,0.3321068584918976
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,5,4,81,mil aventuras,0.33142781257629395
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,5,5,199,hijos sombras,0.3295687139034271
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,1,10,becquer paris,0.3500259518623352
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,2,225,chancellor,0.3339543342590332
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,3,224,virada,0.3321068584918976
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,4,81,mil aventuras,0.33142781257629395
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,5,199,hijos sombras,0.3295687139034271
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,6,20,sherlock holmes lejano oeste,0.30877208709716797
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,7,152,ultima ola,0.3062184751033783
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,8,189,hijo virrey,0.30599063634872437
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,9,379,cuentos completos,0.3034341335296631
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SentenceTransformer,Similitud,10,10,381,aventuras valor heroismo,0.29754698276519775
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,1,1,239,guerra zulu,0.773115873336792
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,3,1,239,guerra zulu,0.773115873336792
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,3,2,270,cabeza durmiente,0.7612847685813904
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,3,3,7,venganza,0.7598509192466736
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,5,1,239,guerra zulu,0.773115873336792
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,5,2,270,cabeza durmiente,0.7612847685813904
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,5,3,7,venganza,0.7598509192466736
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,5,4,205,theodoros,0.7425792217254639
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,5,5,235,mameena hija tempestad ed ilustrada,0.7412233948707581
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,1,239,guerra zulu,0.773115873336792
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,2,270,cabeza durmiente,0.7612847685813904
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,3,7,venganza,0.7598509192466736
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,4,205,theodoros,0.7425792217254639
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,5,235,mameena hija tempestad ed ilustrada,0.7412233948707581
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,6,101,damas vaqueros serie completa,0.736716628074646
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,7,76,cristalian españa,0.7260085344314575
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,8,237,leyendas caucaso estepa,0.7236024141311646
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,9,290,oceanos gloria,0.7234324216842651
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Word2Vec,Similitud,10,10,155,gran libro rey arturo caballeros mesa redonda,0.7170118093490601
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,1,1,30,marca roja,0.8015333414077759
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,3,1,30,marca roja,0.8015333414077759
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,3,2,151,ultramarina,0.799873411655426
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,3,3,20,sherlock holmes lejano oeste,0.7966278791427612
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,5,1,30,marca roja,0.8015333414077759
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,5,2,151,ultramarina,0.799873411655426
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,5,3,20,sherlock holmes lejano oeste,0.7966278791427612
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,5,4,356,acrata magallania,0.7966247797012329
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,5,5,85,nuevas mil noches trad loayza badiola,0.7957733869552612
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,1,30,marca roja,0.8015333414077759
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,2,151,ultramarina,0.799873411655426
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,3,20,sherlock holmes lejano oeste,0.7966278791427612
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,4,356,acrata magallania,0.7966247797012329
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,5,85,nuevas mil noches trad loayza badiola,0.7957733869552612
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,6,38,viaje centro tierra ed clasicos medida,0.794897198677063
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,7,328,robinson crusoe il n c wyeth trad julio cortazar,0.7923424243927002
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,8,100,diario enano,0.7921788096427917
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,9,0,persiguiendo becquer,0.7918978333473206
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,SBW,Similitud,10,10,360,sombra alejandro,0.7914770841598511
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,1,1,302,recuerde arma dormida,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,3,1,302,recuerde arma dormida,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,3,2,50,irregulares baker street,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,3,3,72,regreso estrellas,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,5,1,302,recuerde arma dormida,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,5,2,50,irregulares baker street,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,5,3,72,regreso estrellas,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,5,4,270,cabeza durmiente,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,5,5,232,espada katham,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,1,302,recuerde arma dormida,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,2,50,irregulares baker street,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,3,72,regreso estrellas,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,4,270,cabeza durmiente,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,5,232,espada katham,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,6,44,sopla viento desierto,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,7,346,jaque mate,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,8,154,desafio,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,9,253,aventurero escritor,
+1,¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?,Azar,Orden aleatorio,10,10,389,conquistadores antartida,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,1,1,381,aventuras valor heroismo,0.24653758877388554
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,3,1,381,aventuras valor heroismo,0.24653758877388554
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,3,2,1,cancion hands,0.16189499387407125
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,3,3,332,tinta fuego,0.10845562633837155
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,5,1,381,aventuras valor heroismo,0.24653758877388554
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,5,2,1,cancion hands,0.16189499387407125
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,5,3,332,tinta fuego,0.10845562633837155
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,5,4,364,relatos alaska,0.10489174624424272
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,5,5,392,buscador oro,0.08308202874748474
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,1,381,aventuras valor heroismo,0.24653758877388554
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,2,1,cancion hands,0.16189499387407125
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,3,332,tinta fuego,0.10845562633837155
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,4,364,relatos alaska,0.10489174624424272
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,5,392,buscador oro,0.08308202874748474
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,6,243,isla tesoro il n c wyeth trad francisco torres oliver,0.0788769090242151
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,7,289,sabran nombre,0.06810988811259402
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,8,215,capitan,0.06520967312127507
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,9,175,corazones,0.06203114319831836
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,TF-IDF,Similitud,10,10,30,marca roja,0.06101997114833855
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,1,1,224,virada,0.4067818820476532
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,3,1,224,virada,0.4067818820476532
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,3,2,397,hijos clumba,0.3989787697792053
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,3,3,81,mil aventuras,0.38909825682640076
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,5,1,224,virada,0.4067818820476532
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,5,2,397,hijos clumba,0.3989787697792053
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,5,3,81,mil aventuras,0.38909825682640076
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,5,4,69,zafiro,0.3716927766799927
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,5,5,47,dama escabiosas,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,1,224,virada,0.4067818820476532
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,2,397,hijos clumba,0.3989787697792053
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,3,81,mil aventuras,0.38909825682640076
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,4,69,zafiro,0.3716927766799927
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,5,47,dama escabiosas,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,6,91,busto ojos esmeralda,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,7,43,torre febril,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,8,222,flor sueño,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,9,40,desenmascarados,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SentenceTransformer,Similitud,10,10,314,expedicion gorillclub,0.3674028515815735
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,1,1,193,gran sequia,0.7780543565750122
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,3,1,193,gran sequia,0.7780543565750122
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,3,2,112,hermandad buena suerte,0.7464230060577393
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,3,3,1,cancion hands,0.7454051971435547
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,5,1,193,gran sequia,0.7780543565750122
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,5,2,112,hermandad buena suerte,0.7464230060577393
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,5,3,1,cancion hands,0.7454051971435547
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,5,4,378,camino ballena,0.7430264353752136
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,5,5,223,siete casas francia,0.7416300773620605
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,1,193,gran sequia,0.7780543565750122
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,2,112,hermandad buena suerte,0.7464230060577393
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,3,1,cancion hands,0.7454051971435547
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,4,378,camino ballena,0.7430264353752136
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,5,223,siete casas francia,0.7416300773620605
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,6,355,secreto elixir magico,0.7372809648513794
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,7,80,canoa fantasma,0.7343490123748779
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,8,392,buscador oro,0.7322819232940674
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,9,333,ciudad cesares,0.7285383939743042
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Word2Vec,Similitud,10,10,111,romantico,0.7238038778305054
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,1,1,355,secreto elixir magico,0.821743369102478
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,3,1,355,secreto elixir magico,0.821743369102478
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,3,2,243,isla tesoro il n c wyeth trad francisco torres oliver,0.8080507516860962
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,3,3,1,cancion hands,0.8042311072349548
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,5,1,355,secreto elixir magico,0.821743369102478
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,5,2,243,isla tesoro il n c wyeth trad francisco torres oliver,0.8080507516860962
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,5,3,1,cancion hands,0.8042311072349548
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,5,4,362,inmortal,0.8014344573020935
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,5,5,332,tinta fuego,0.8009272813796997
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,1,355,secreto elixir magico,0.821743369102478
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,2,243,isla tesoro il n c wyeth trad francisco torres oliver,0.8080507516860962
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,3,1,cancion hands,0.8042311072349548
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,4,362,inmortal,0.8014344573020935
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,5,332,tinta fuego,0.8009272813796997
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,6,364,relatos alaska,0.8002917170524597
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,7,36,totem,0.7984354496002197
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,8,173,historias ring,0.7922909259796143
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,9,392,buscador oro,0.7916915416717529
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,SBW,Similitud,10,10,13,historia interminable ed ilustrada,0.7891422510147095
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,1,1,88,tierra sol luna,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,3,1,88,tierra sol luna,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,3,2,66,tapiz tiempo,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,3,3,268,desafio estrellas,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,5,1,88,tierra sol luna,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,5,2,66,tapiz tiempo,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,5,3,268,desafio estrellas,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,5,4,328,robinson crusoe il n c wyeth trad julio cortazar,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,5,5,96,andes cielo,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,1,88,tierra sol luna,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,2,66,tapiz tiempo,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,3,268,desafio estrellas,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,4,328,robinson crusoe il n c wyeth trad julio cortazar,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,5,96,andes cielo,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,6,299,nombre ala zona caliente,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,7,259,muerte vegas,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,8,122,valle perdidos,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,9,201,imperio ruinas,
+2,¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?,Azar,Orden aleatorio,10,10,27,sueño astronomia luna,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,1,1,2,batallon disciplinario,0.35991836696768137
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,3,1,2,batallon disciplinario,0.35991836696768137
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,3,2,332,tinta fuego,0.14275192741318452
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,3,3,377,secreto ilse,0.09525967037852817
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,5,1,2,batallon disciplinario,0.35991836696768137
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,5,2,332,tinta fuego,0.14275192741318452
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,5,3,377,secreto ilse,0.09525967037852817
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,5,4,82,silencios atlantico,0.08647954773771209
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,5,5,117,atolon,0.08097125336920907
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,1,2,batallon disciplinario,0.35991836696768137
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,2,332,tinta fuego,0.14275192741318452
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,3,377,secreto ilse,0.09525967037852817
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,4,82,silencios atlantico,0.08647954773771209
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,5,117,atolon,0.08097125336920907
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,6,97,saracen,0.0787687872614001
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,7,148,motin caine,0.07658996091420209
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,8,200,largo camino miedo,0.07565237837899953
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,9,166,arado espada,0.06856372124921031
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,TF-IDF,Similitud,10,10,217,ruta sangrienta,0.06404511351568368
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,1,1,2,batallon disciplinario,0.5334091782569885
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,3,1,2,batallon disciplinario,0.5334091782569885
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,3,2,217,ruta sangrienta,0.35260576009750366
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,3,3,224,virada,0.33601653575897217
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,5,1,2,batallon disciplinario,0.5334091782569885
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,5,2,217,ruta sangrienta,0.35260576009750366
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,5,3,224,virada,0.33601653575897217
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,5,4,377,secreto ilse,0.31689953804016113
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,5,5,332,tinta fuego,0.3130028545856476
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,1,2,batallon disciplinario,0.5334091782569885
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,2,217,ruta sangrienta,0.35260576009750366
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,3,224,virada,0.33601653575897217
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,4,377,secreto ilse,0.31689953804016113
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,5,332,tinta fuego,0.3130028545856476
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,6,89,vampiro,0.30598387122154236
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,7,200,largo camino miedo,0.2929050922393799
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,8,30,marca roja,0.2716202139854431
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,9,291,libro fantasia,0.26142674684524536
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SentenceTransformer,Similitud,10,10,128,mision ii guerra mundial,0.25203609466552734
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,1,1,82,silencios atlantico,0.8689480423927307
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,3,1,82,silencios atlantico,0.8689480423927307
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,3,2,97,saracen,0.8448614478111267
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,3,3,2,batallon disciplinario,0.8295117616653442
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,5,1,82,silencios atlantico,0.8689480423927307
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,5,2,97,saracen,0.8448614478111267
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,5,3,2,batallon disciplinario,0.8295117616653442
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,5,4,132,lobos invierno,0.8262509107589722
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,5,5,134,ejecucion,0.8099744319915771
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,1,82,silencios atlantico,0.8689480423927307
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,2,97,saracen,0.8448614478111267
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,3,2,batallon disciplinario,0.8295117616653442
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,4,132,lobos invierno,0.8262509107589722
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,5,134,ejecucion,0.8099744319915771
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,6,370,contara,0.8049172163009644
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,7,246,armada dios,0.7892073392868042
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,8,135,fiesta,0.7753725647926331
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,9,136,mision attica,0.7581998109817505
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Word2Vec,Similitud,10,10,164,diosa serpiente,0.7545298337936401
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,1,1,2,batallon disciplinario,0.846592128276825
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,3,1,2,batallon disciplinario,0.846592128276825
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,3,2,200,largo camino miedo,0.8142660856246948
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,3,3,82,silencios atlantico,0.8035652041435242
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,5,1,2,batallon disciplinario,0.846592128276825
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,5,2,200,largo camino miedo,0.8142660856246948
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,5,3,82,silencios atlantico,0.8035652041435242
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,5,4,134,ejecucion,0.7941520810127258
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,5,5,217,ruta sangrienta,0.7913172245025635
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,1,2,batallon disciplinario,0.846592128276825
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,2,200,largo camino miedo,0.8142660856246948
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,3,82,silencios atlantico,0.8035652041435242
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,4,134,ejecucion,0.7941520810127258
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,5,217,ruta sangrienta,0.7913172245025635
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,6,370,contara,0.780749499797821
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,7,28,hazañas brigadier gerard trad amando lazaro ros,0.7787596583366394
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,8,136,mision attica,0.7765305042266846
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,9,166,arado espada,0.7677962183952332
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,SBW,Similitud,10,10,361,fort everglades,0.7661730051040649
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,1,1,77,hechicero,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,3,1,77,hechicero,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,3,2,261,costa ardiente,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,3,3,130,montaña oro,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,5,1,77,hechicero,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,5,2,261,costa ardiente,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,5,3,130,montaña oro,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,5,4,84,aventuras profesor challenger introd alfredo lara,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,5,5,359,ultimo argumento reyes edicion ilustrada,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,1,77,hechicero,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,2,261,costa ardiente,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,3,130,montaña oro,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,4,84,aventuras profesor challenger introd alfredo lara,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,5,359,ultimo argumento reyes edicion ilustrada,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,6,372,inmortales highlander,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,7,134,ejecucion,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,8,109,mobydick,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,9,69,zafiro,
+3,¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?,Azar,Orden aleatorio,10,10,349,reino perdido,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,1,1,3,king,0.2545362155281512
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,3,1,3,king,0.2545362155281512
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,3,2,67,lujuria libro 1,0.12565041254652687
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,3,3,332,tinta fuego,0.11944001681851701
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,5,1,3,king,0.2545362155281512
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,5,2,67,lujuria libro 1,0.12565041254652687
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,5,3,332,tinta fuego,0.11944001681851701
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,5,4,202,dejame sombras,0.09700830519727423
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,5,5,265,viejo montaña,0.0923079600187103
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,1,3,king,0.2545362155281512
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,2,67,lujuria libro 1,0.12565041254652687
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,3,332,tinta fuego,0.11944001681851701
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,4,202,dejame sombras,0.09700830519727423
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,5,265,viejo montaña,0.0923079600187103
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,6,260,vacaciones malditas vacaciones,0.09055499175647533
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,7,24,lujuria libro 2,0.07913278377978762
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,8,68,biblioteca niebla,0.07776679643878931
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,9,101,damas vaqueros serie completa,0.072684235692814
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",TF-IDF,Similitud,10,10,280,duende aguas turbulentas,0.07160781956756146
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,1,1,3,king,0.4120195209980011
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,3,1,3,king,0.4120195209980011
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,3,2,51,valle prohibido,0.3725317418575287
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,3,3,52,primer latido australia,0.35103803873062134
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,5,1,3,king,0.4120195209980011
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,5,2,51,valle prohibido,0.3725317418575287
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,5,3,52,primer latido australia,0.35103803873062134
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,5,4,340,valor,0.32850614190101624
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,5,5,381,aventuras valor heroismo,0.32671013474464417
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,1,3,king,0.4120195209980011
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,2,51,valle prohibido,0.3725317418575287
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,3,52,primer latido australia,0.35103803873062134
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,4,340,valor,0.32850614190101624
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,5,381,aventuras valor heroismo,0.32671013474464417
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,6,184,matamonstruos,0.32473254203796387
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,7,68,biblioteca niebla,0.3226827383041382
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,8,148,motin caine,0.3200547993183136
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,9,224,virada,0.31848129630088806
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SentenceTransformer,Similitud,10,10,20,sherlock holmes lejano oeste,0.3157464265823364
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,1,1,3,king,0.8862724304199219
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,3,1,3,king,0.8862724304199219
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,3,2,265,viejo montaña,0.8669463396072388
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,3,3,312,mañana,0.824840784072876
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,5,1,3,king,0.8862724304199219
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,5,2,265,viejo montaña,0.8669463396072388
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,5,3,312,mañana,0.824840784072876
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,5,4,321,maldicion 1000 siglos,0.823304295539856
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,5,5,260,vacaciones malditas vacaciones,0.8135784864425659
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,1,3,king,0.8862724304199219
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,2,265,viejo montaña,0.8669463396072388
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,3,312,mañana,0.824840784072876
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,4,321,maldicion 1000 siglos,0.823304295539856
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,5,260,vacaciones malditas vacaciones,0.8135784864425659
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,6,181,hija nieves,0.8089522123336792
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,7,256,doble sencillo,0.7742758989334106
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,8,280,duende aguas turbulentas,0.7533003091812134
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,9,204,samurai errante,0.7433881759643555
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Word2Vec,Similitud,10,10,32,mision paris,0.7202724814414978
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,1,1,3,king,0.8499923944473267
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,3,1,3,king,0.8499923944473267
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,3,2,135,fiesta,0.8384137153625488
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,3,3,157,sinfonia monstruos,0.8342940807342529
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,5,1,3,king,0.8499923944473267
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,5,2,135,fiesta,0.8384137153625488
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,5,3,157,sinfonia monstruos,0.8342940807342529
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,5,4,390,carcel aire,0.8336862325668335
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,5,5,20,sherlock holmes lejano oeste,0.8280777335166931
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,1,3,king,0.8499923944473267
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,2,135,fiesta,0.8384137153625488
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,3,157,sinfonia monstruos,0.8342940807342529
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,4,390,carcel aire,0.8336862325668335
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,5,20,sherlock holmes lejano oeste,0.8280777335166931
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,6,71,carmen sandiego,0.8263038992881775
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,7,376,hechicera cuentos magicos mares sur,0.8262190818786621
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,8,123,cuentos populares ingleses,0.8222811222076416
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,9,50,irregulares baker street,0.8206986784934998
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",SBW,Similitud,10,10,155,gran libro rey arturo caballeros mesa redonda,0.8171076774597168
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,1,1,352,scaramouche novela ilustrada,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,3,1,352,scaramouche novela ilustrada,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,3,2,58,imperio llamas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,3,3,274,filo aullido,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,5,1,352,scaramouche novela ilustrada,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,5,2,58,imperio llamas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,5,3,274,filo aullido,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,5,4,280,duende aguas turbulentas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,5,5,353,baston cuervo,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,1,352,scaramouche novela ilustrada,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,2,58,imperio llamas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,3,274,filo aullido,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,4,280,duende aguas turbulentas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,5,353,baston cuervo,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,6,47,dama escabiosas,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,7,384,secuestro albatros,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,8,383,sombra ardiente,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,9,345,manuscrito perdido principito,
+4,"¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",Azar,Orden aleatorio,10,10,363,magumba,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,1,1,4,guardian dioses,0.1653908263087986
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,3,1,4,guardian dioses,0.1653908263087986
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,3,2,392,buscador oro,0.08239537532168906
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,3,3,332,tinta fuego,0.07455318548819899
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,5,1,4,guardian dioses,0.1653908263087986
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,5,2,392,buscador oro,0.08239537532168906
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,5,3,332,tinta fuego,0.07455318548819899
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,5,4,243,isla tesoro il n c wyeth trad francisco torres oliver,0.06252034728904207
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,5,5,289,sabran nombre,0.06197276170827099
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,1,4,guardian dioses,0.1653908263087986
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,2,392,buscador oro,0.08239537532168906
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,3,332,tinta fuego,0.07455318548819899
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,4,243,isla tesoro il n c wyeth trad francisco torres oliver,0.06252034728904207
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,5,289,sabran nombre,0.06197276170827099
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,6,106,historia apolonio rey tiro,0.061275384617350014
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,7,68,biblioteca niebla,0.05932018365075959
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,8,383,sombra ardiente,0.05354390061158936
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,9,67,lujuria libro 1,0.049637210415325594
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,TF-IDF,Similitud,10,10,175,corazones,0.049167857405575555
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,1,1,224,virada,0.39693641662597656
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,3,1,224,virada,0.39693641662597656
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,3,2,360,sombra alejandro,0.3946871757507324
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,3,3,237,leyendas caucaso estepa,0.36573106050491333
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,5,1,224,virada,0.39693641662597656
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,5,2,360,sombra alejandro,0.3946871757507324
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,5,3,237,leyendas caucaso estepa,0.36573106050491333
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,5,4,388,ultima mirada goya,0.36294591426849365
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,5,5,291,libro fantasia,0.3438417613506317
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,1,224,virada,0.39693641662597656
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,2,360,sombra alejandro,0.3946871757507324
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,3,237,leyendas caucaso estepa,0.36573106050491333
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,4,388,ultima mirada goya,0.36294591426849365
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,5,291,libro fantasia,0.3438417613506317
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,6,68,biblioteca niebla,0.343189001083374
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,7,397,hijos clumba,0.34208226203918457
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,8,69,zafiro,0.3392068147659302
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,9,91,busto ojos esmeralda,0.32442447543144226
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SentenceTransformer,Similitud,10,10,43,torre febril,0.32442447543144226
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,1,1,231,tarzan ciudad prohibida,0.7752354741096497
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,3,1,231,tarzan ciudad prohibida,0.7752354741096497
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,3,2,229,tarzan ciudad oro,0.7717515826225281
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,3,3,382,bandidos,0.760710597038269
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,5,1,231,tarzan ciudad prohibida,0.7752354741096497
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,5,2,229,tarzan ciudad oro,0.7717515826225281
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,5,3,382,bandidos,0.760710597038269
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,5,4,36,totem,0.7578263282775879
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,5,5,17,ombria oculta,0.7468575239181519
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,1,231,tarzan ciudad prohibida,0.7752354741096497
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,2,229,tarzan ciudad oro,0.7717515826225281
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,3,382,bandidos,0.760710597038269
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,4,36,totem,0.7578263282775879
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,5,17,ombria oculta,0.7468575239181519
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,6,141,venenos tebas,0.724137544631958
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,7,142,estaciones nilo,0.7197263240814209
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,8,236,tarzan invencible,0.7186267375946045
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,9,394,asesinato casino,0.7175021171569824
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Word2Vec,Similitud,10,10,293,edad sol,0.7170193195343018
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,1,1,4,guardian dioses,0.8423923850059509
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,3,1,4,guardian dioses,0.8423923850059509
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,3,2,188,viaje san brandan,0.8398345708847046
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,3,3,68,biblioteca niebla,0.8371297121047974
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,5,1,4,guardian dioses,0.8423923850059509
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,5,2,188,viaje san brandan,0.8398345708847046
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,5,3,68,biblioteca niebla,0.8371297121047974
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,5,4,360,sombra alejandro,0.8310359716415405
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,5,5,155,gran libro rey arturo caballeros mesa redonda,0.829473614692688
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,1,4,guardian dioses,0.8423923850059509
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,2,188,viaje san brandan,0.8398345708847046
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,3,68,biblioteca niebla,0.8371297121047974
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,4,360,sombra alejandro,0.8310359716415405
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,5,155,gran libro rey arturo caballeros mesa redonda,0.829473614692688
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,6,233,collar hombre errante,0.8263630867004395
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,7,392,buscador oro,0.8224928975105286
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,8,332,tinta fuego,0.8189072608947754
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,9,205,theodoros,0.8173031806945801
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,SBW,Similitud,10,10,69,zafiro,0.8162379860877991
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,1,1,344,soledad salvaje,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,3,1,344,soledad salvaje,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,3,2,296,engendro,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,3,3,248,pelicula maldita,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,5,1,344,soledad salvaje,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,5,2,296,engendro,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,5,3,248,pelicula maldita,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,5,4,168,isla mujer dormida,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,5,5,378,camino ballena,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,1,344,soledad salvaje,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,2,296,engendro,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,3,248,pelicula maldita,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,4,168,isla mujer dormida,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,5,378,camino ballena,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,6,346,jaque mate,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,7,119,heredera vikinga,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,8,326,fragilidad imperio,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,9,358,corona cruel,
+5,¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?,Azar,Orden aleatorio,10,10,215,capitan,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,1,1,5,fuegos,0.289550876974351
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,3,1,5,fuegos,0.289550876974351
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,3,2,332,tinta fuego,0.0656626938928258
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,3,3,226,tarzan hombre leon,0.053364308930088075
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,5,1,5,fuegos,0.289550876974351
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,5,2,332,tinta fuego,0.0656626938928258
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,5,3,226,tarzan hombre leon,0.053364308930088075
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,5,4,82,silencios atlantico,0.05019876088737533
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,5,5,293,edad sol,0.049398811813088986
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,1,5,fuegos,0.289550876974351
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,2,332,tinta fuego,0.0656626938928258
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,3,226,tarzan hombre leon,0.053364308930088075
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,4,82,silencios atlantico,0.05019876088737533
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,5,293,edad sol,0.049398811813088986
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,6,63,manzanas oro,0.04564458137201036
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,7,247,hermanos dios,0.04495459279534653
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,8,101,damas vaqueros serie completa,0.04428042795289697
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,9,1,cancion hands,0.04364347198379531
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,TF-IDF,Similitud,10,10,30,marca roja,0.04259866490034775
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,1,1,224,virada,0.39055967330932617
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,3,1,224,virada,0.39055967330932617
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,3,2,397,hijos clumba,0.3881142735481262
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,3,3,5,fuegos,0.3759923577308655
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,5,1,224,virada,0.39055967330932617
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,5,2,397,hijos clumba,0.3881142735481262
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,5,3,5,fuegos,0.3759923577308655
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,5,4,235,mameena hija tempestad ed ilustrada,0.3697868883609772
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,5,5,239,guerra zulu,0.3385823965072632
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,1,224,virada,0.39055967330932617
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,2,397,hijos clumba,0.3881142735481262
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,3,5,fuegos,0.3759923577308655
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,4,235,mameena hija tempestad ed ilustrada,0.3697868883609772
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,5,239,guerra zulu,0.3385823965072632
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,6,291,libro fantasia,0.3382372260093689
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,7,129,fin,0.32918524742126465
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,8,362,inmortal,0.3224499225616455
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,9,203,terradraga,0.31865939497947693
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SentenceTransformer,Similitud,10,10,346,jaque mate,0.3173186779022217
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,1,1,185,poema gilgamesh trad rafael jimenez zamudio,0.8286845088005066
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,3,1,185,poema gilgamesh trad rafael jimenez zamudio,0.8286845088005066
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,3,2,213,oliver twist ed alba,0.8259664177894592
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,3,3,224,virada,0.8031686544418335
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,5,1,185,poema gilgamesh trad rafael jimenez zamudio,0.8286845088005066
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,5,2,213,oliver twist ed alba,0.8259664177894592
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,5,3,224,virada,0.8031686544418335
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,5,4,193,gran sequia,0.8005701899528503
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,5,5,6,conde montecristo tomo i ed b oro,0.8000543713569641
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,1,185,poema gilgamesh trad rafael jimenez zamudio,0.8286845088005066
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,2,213,oliver twist ed alba,0.8259664177894592
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,3,224,virada,0.8031686544418335
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,4,193,gran sequia,0.8005701899528503
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,5,6,conde montecristo tomo i ed b oro,0.8000543713569641
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,6,80,canoa fantasma,0.7997875213623047
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,7,111,romantico,0.7912970781326294
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,8,205,theodoros,0.7905911207199097
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,9,51,valle prohibido,0.7859922647476196
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Word2Vec,Similitud,10,10,340,valor,0.7828340530395508
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,1,1,5,fuegos,0.8220053911209106
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,3,1,5,fuegos,0.8220053911209106
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,3,2,203,terradraga,0.8154257535934448
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,3,3,88,tierra sol luna,0.8128321766853333
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,5,1,5,fuegos,0.8220053911209106
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,5,2,203,terradraga,0.8154257535934448
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,5,3,88,tierra sol luna,0.8128321766853333
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,5,4,188,viaje san brandan,0.8100228905677795
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,5,5,155,gran libro rey arturo caballeros mesa redonda,0.8072421550750732
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,1,5,fuegos,0.8220053911209106
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,2,203,terradraga,0.8154257535934448
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,3,88,tierra sol luna,0.8128321766853333
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,4,188,viaje san brandan,0.8100228905677795
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,5,155,gran libro rey arturo caballeros mesa redonda,0.8072421550750732
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,6,372,inmortales highlander,0.8067331910133362
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,7,185,poema gilgamesh trad rafael jimenez zamudio,0.8025988340377808
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,8,217,ruta sangrienta,0.8000243902206421
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,9,387,leyendas,0.7997691631317139
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,SBW,Similitud,10,10,65,imperio fuego azul,0.7992221117019653
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,1,1,291,libro fantasia,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,3,1,291,libro fantasia,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,3,2,307,lentas pasan horas rio,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,3,3,279,sueño perdido,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,5,1,291,libro fantasia,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,5,2,307,lentas pasan horas rio,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,5,3,279,sueño perdido,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,5,4,93,ultimatum tierra,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,5,5,117,atolon,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,1,291,libro fantasia,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,2,307,lentas pasan horas rio,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,3,279,sueño perdido,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,4,93,ultimatum tierra,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,5,117,atolon,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,6,153,mercenarios diamantes,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,7,233,collar hombre errante,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,8,116,libro tierras virgenes ilustrado,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,9,190,mimpins ilustrado patrick benson,
+6,¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?,Azar,Orden aleatorio,10,10,326,fragilidad imperio,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,1,1,6,conde montecristo tomo i ed b oro,0.1486841930557009
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,3,1,6,conde montecristo tomo i ed b oro,0.1486841930557009
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,3,2,269,lienzo sangre,0.0860291621784736
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,3,3,332,tinta fuego,0.07504157508108897
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,5,1,6,conde montecristo tomo i ed b oro,0.1486841930557009
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,5,2,269,lienzo sangre,0.0860291621784736
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,5,3,332,tinta fuego,0.07504157508108897
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,5,4,100,diario enano,0.0630546248804084
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,5,5,106,historia apolonio rey tiro,0.0616767928194473
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,1,6,conde montecristo tomo i ed b oro,0.1486841930557009
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,2,269,lienzo sangre,0.0860291621784736
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,3,332,tinta fuego,0.07504157508108897
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,4,100,diario enano,0.0630546248804084
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,5,106,historia apolonio rey tiro,0.0616767928194473
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,6,30,marca roja,0.048683212962465104
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,7,68,biblioteca niebla,0.04658755711282124
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,8,234,lazo roto,0.04478798056649885
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,9,207,rey rojo,0.034880832192502584
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,TF-IDF,Similitud,10,10,279,sueño perdido,0.03132055772322108
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,1,1,6,conde montecristo tomo i ed b oro,0.38691380620002747
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,3,1,6,conde montecristo tomo i ed b oro,0.38691380620002747
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,3,2,352,scaramouche novela ilustrada,0.32249927520751953
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,3,3,224,virada,0.31889885663986206
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,5,1,6,conde montecristo tomo i ed b oro,0.38691380620002747
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,5,2,352,scaramouche novela ilustrada,0.32249927520751953
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,5,3,224,virada,0.31889885663986206
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,5,4,328,robinson crusoe il n c wyeth trad julio cortazar,0.31726622581481934
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,5,5,81,mil aventuras,0.3069983720779419
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,1,6,conde montecristo tomo i ed b oro,0.38691380620002747
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,2,352,scaramouche novela ilustrada,0.32249927520751953
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,3,224,virada,0.31889885663986206
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,4,328,robinson crusoe il n c wyeth trad julio cortazar,0.31726622581481934
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,5,81,mil aventuras,0.3069983720779419
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,6,367,pies lleven,0.3031187653541565
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,7,291,libro fantasia,0.30095145106315613
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,8,184,matamonstruos,0.2994627356529236
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,9,189,hijo virrey,0.2965462803840637
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SentenceTransformer,Similitud,10,10,356,acrata magallania,0.2910628914833069
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,1,1,113,oscuridad noche,0.6564669609069824
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,3,1,113,oscuridad noche,0.6564669609069824
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,3,2,267,camelot,0.6563190221786499
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,3,3,193,gran sequia,0.629065215587616
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,5,1,113,oscuridad noche,0.6564669609069824
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,5,2,267,camelot,0.6563190221786499
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,5,3,193,gran sequia,0.629065215587616
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,5,4,108,herencia salvaje,0.6245094537734985
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,5,5,220,honesto mentiroso,0.609565019607544
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,1,113,oscuridad noche,0.6564669609069824
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,2,267,camelot,0.6563190221786499
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,3,193,gran sequia,0.629065215587616
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,4,108,herencia salvaje,0.6245094537734985
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,5,220,honesto mentiroso,0.609565019607544
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,6,269,lienzo sangre,0.6078015565872192
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,7,196,pentameron,0.5972893238067627
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,8,237,leyendas caucaso estepa,0.5920215845108032
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,9,7,venganza,0.5850015878677368
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Word2Vec,Similitud,10,10,59,mago oz ed clasicos medida,0.5837173461914062
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,1,1,352,scaramouche novela ilustrada,0.8066871166229248
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,3,1,352,scaramouche novela ilustrada,0.8066871166229248
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,3,2,73,hija capitan ed b oro,0.805688738822937
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,3,3,7,venganza,0.8051105737686157
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,5,1,352,scaramouche novela ilustrada,0.8066871166229248
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,5,2,73,hija capitan ed b oro,0.805688738822937
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,5,3,7,venganza,0.8051105737686157
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,5,4,198,historia gillion trazegnies,0.8030942678451538
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,5,5,237,leyendas caucaso estepa,0.8010091781616211
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,1,352,scaramouche novela ilustrada,0.8066871166229248
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,2,73,hija capitan ed b oro,0.805688738822937
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,3,7,venganza,0.8051105737686157
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,4,198,historia gillion trazegnies,0.8030942678451538
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,5,237,leyendas caucaso estepa,0.8010091781616211
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,6,6,conde montecristo tomo i ed b oro,0.8004872798919678
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,7,235,mameena hija tempestad ed ilustrada,0.7991040945053101
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,8,205,theodoros,0.7963411211967468
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,9,184,matamonstruos,0.7945516705513
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,SBW,Similitud,10,10,15,historia sainville leonore,0.794052243232727
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,1,1,395,corazones plomo,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,3,1,395,corazones plomo,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,3,2,47,dama escabiosas,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,3,3,237,leyendas caucaso estepa,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,5,1,395,corazones plomo,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,5,2,47,dama escabiosas,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,5,3,237,leyendas caucaso estepa,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,5,4,184,matamonstruos,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,5,5,293,edad sol,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,1,395,corazones plomo,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,2,47,dama escabiosas,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,3,237,leyendas caucaso estepa,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,4,184,matamonstruos,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,5,293,edad sol,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,6,151,ultramarina,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,7,80,canoa fantasma,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,8,326,fragilidad imperio,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,9,71,carmen sandiego,
+7,¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?,Azar,Orden aleatorio,10,10,229,tarzan ciudad oro,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,1,1,68,biblioteca niebla,0.19684421886584447
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,3,1,68,biblioteca niebla,0.19684421886584447
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,3,2,7,venganza,0.15693636954206183
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,3,3,269,lienzo sangre,0.1212126005906148
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,5,1,68,biblioteca niebla,0.19684421886584447
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,5,2,7,venganza,0.15693636954206183
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,5,3,269,lienzo sangre,0.1212126005906148
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,5,4,332,tinta fuego,0.10573140825345251
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,5,5,108,herencia salvaje,0.09058900306913467
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,1,68,biblioteca niebla,0.19684421886584447
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,2,7,venganza,0.15693636954206183
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,3,269,lienzo sangre,0.1212126005906148
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,4,332,tinta fuego,0.10573140825345251
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,5,108,herencia salvaje,0.09058900306913467
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,6,182,trono destrozado,0.08596822831241423
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,7,211,oscuro capitan blackdawn,0.0830426414412933
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,8,352,scaramouche novela ilustrada,0.08098738193439325
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,9,234,lazo roto,0.07991494562789314
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,TF-IDF,Similitud,10,10,30,marca roja,0.06859323860489354
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,1,1,7,venganza,0.373526006937027
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,3,1,7,venganza,0.373526006937027
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,3,2,224,virada,0.3270907402038574
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,3,3,68,biblioteca niebla,0.3132483661174774
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,5,1,7,venganza,0.373526006937027
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,5,2,224,virada,0.3270907402038574
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,5,3,68,biblioteca niebla,0.3132483661174774
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,5,4,397,hijos clumba,0.3016124963760376
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,5,5,354,scaramouche creador reyes novela ilustrada,0.2913714647293091
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,1,7,venganza,0.373526006937027
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,2,224,virada,0.3270907402038574
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,3,68,biblioteca niebla,0.3132483661174774
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,4,397,hijos clumba,0.3016124963760376
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,5,354,scaramouche creador reyes novela ilustrada,0.2913714647293091
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,6,15,historia sainville leonore,0.29068151116371155
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,7,102,peces corona,0.2846354842185974
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,8,72,regreso estrellas,0.27779120206832886
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,9,131,aventuras completas charlie willy wonka ilus joseph schindelman,0.277057021856308
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SentenceTransformer,Similitud,10,10,377,secreto ilse,0.2763413190841675
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,1,1,113,oscuridad noche,0.8056986331939697
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,3,1,113,oscuridad noche,0.8056986331939697
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,3,2,108,herencia salvaje,0.803764820098877
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,3,3,9,mosqueteros ed b oro,0.7378517389297485
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,5,1,113,oscuridad noche,0.8056986331939697
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,5,2,108,herencia salvaje,0.803764820098877
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,5,3,9,mosqueteros ed b oro,0.7378517389297485
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,5,4,171,misterio aguila,0.715786337852478
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,5,5,101,damas vaqueros serie completa,0.7050343155860901
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,1,113,oscuridad noche,0.8056986331939697
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,2,108,herencia salvaje,0.803764820098877
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,3,9,mosqueteros ed b oro,0.7378517389297485
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,4,171,misterio aguila,0.715786337852478
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,5,101,damas vaqueros serie completa,0.7050343155860901
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,6,68,biblioteca niebla,0.6952195167541504
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,7,56,hijo furia,0.6930171251296997
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,8,193,gran sequia,0.6874464750289917
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,9,6,conde montecristo tomo i ed b oro,0.6814686059951782
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Word2Vec,Similitud,10,10,7,venganza,0.680683970451355
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,1,1,123,cuentos populares ingleses,0.8298489451408386
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,3,1,123,cuentos populares ingleses,0.8298489451408386
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,3,2,205,theodoros,0.828203558921814
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,3,3,237,leyendas caucaso estepa,0.8279228806495667
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,5,1,123,cuentos populares ingleses,0.8298489451408386
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,5,2,205,theodoros,0.828203558921814
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,5,3,237,leyendas caucaso estepa,0.8279228806495667
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,5,4,28,hazañas brigadier gerard trad amando lazaro ros,0.826860785484314
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,5,5,15,historia sainville leonore,0.8242321014404297
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,1,123,cuentos populares ingleses,0.8298489451408386
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,2,205,theodoros,0.828203558921814
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,3,237,leyendas caucaso estepa,0.8279228806495667
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,4,28,hazañas brigadier gerard trad amando lazaro ros,0.826860785484314
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,5,15,historia sainville leonore,0.8242321014404297
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,6,197,allan egipto antiguo allan,0.8220678567886353
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,7,88,tierra sol luna,0.8212658166885376
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,8,387,leyendas,0.8201475739479065
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,9,171,misterio aguila,0.8174114227294922
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,SBW,Similitud,10,10,314,expedicion gorillclub,0.8163619637489319
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,1,1,230,cabo hornos vela,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,3,1,230,cabo hornos vela,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,3,2,212,precioso testamento,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,3,3,152,ultima ola,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,5,1,230,cabo hornos vela,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,5,2,212,precioso testamento,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,5,3,152,ultima ola,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,5,4,211,oscuro capitan blackdawn,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,5,5,186,aventuras capitan hatteras,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,1,230,cabo hornos vela,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,2,212,precioso testamento,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,3,152,ultima ola,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,4,211,oscuro capitan blackdawn,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,5,186,aventuras capitan hatteras,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,6,129,fin,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,7,204,samurai errante,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,8,379,cuentos completos,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,9,28,hazañas brigadier gerard trad amando lazaro ros,
+8,¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?,Azar,Orden aleatorio,10,10,96,andes cielo,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,1,1,8,flor lis,0.2321870649400547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,3,1,8,flor lis,0.2321870649400547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,3,2,164,diosa serpiente,0.1290139042621547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,3,3,302,recuerde arma dormida,0.09142575829337798
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,5,1,8,flor lis,0.2321870649400547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,5,2,164,diosa serpiente,0.1290139042621547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,5,3,302,recuerde arma dormida,0.09142575829337798
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,5,4,51,valle prohibido,0.07608156483941245
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,5,5,332,tinta fuego,0.07202061721966257
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,1,8,flor lis,0.2321870649400547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,2,164,diosa serpiente,0.1290139042621547
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,3,302,recuerde arma dormida,0.09142575829337798
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,4,51,valle prohibido,0.07608156483941245
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,5,332,tinta fuego,0.07202061721966257
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,6,68,biblioteca niebla,0.07170371610749686
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,7,108,herencia salvaje,0.061706128974593925
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,8,106,historia apolonio rey tiro,0.059193862631293094
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,9,203,terradraga,0.0485233846488919
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,TF-IDF,Similitud,10,10,30,marca roja,0.046723366907001414
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,1,1,224,virada,0.36206647753715515
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,3,1,224,virada,0.36206647753715515
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,3,2,377,secreto ilse,0.3188851773738861
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,3,3,381,aventuras valor heroismo,0.29660269618034363
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,5,1,224,virada,0.36206647753715515
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,5,2,377,secreto ilse,0.3188851773738861
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,5,3,381,aventuras valor heroismo,0.29660269618034363
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,5,4,189,hijo virrey,0.29523664712905884
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,5,5,68,biblioteca niebla,0.29439038038253784
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,1,224,virada,0.36206647753715515
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,2,377,secreto ilse,0.3188851773738861
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,3,381,aventuras valor heroismo,0.29660269618034363
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,4,189,hijo virrey,0.29523664712905884
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,5,68,biblioteca niebla,0.29439038038253784
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,6,291,libro fantasia,0.2935061752796173
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,7,168,isla mujer dormida,0.29240986704826355
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,8,148,motin caine,0.28522026538848877
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,9,129,fin,0.27619537711143494
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SentenceTransformer,Similitud,10,10,302,recuerde arma dormida,0.27566224336624146
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,1,1,108,herencia salvaje,0.810989499092102
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,3,1,108,herencia salvaje,0.810989499092102
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,3,2,9,mosqueteros ed b oro,0.8068525791168213
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,3,3,113,oscuridad noche,0.7980543375015259
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,5,1,108,herencia salvaje,0.810989499092102
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,5,2,9,mosqueteros ed b oro,0.8068525791168213
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,5,3,113,oscuridad noche,0.7980543375015259
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,5,4,171,misterio aguila,0.7634322047233582
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,5,5,51,valle prohibido,0.7362943887710571
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,1,108,herencia salvaje,0.810989499092102
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,2,9,mosqueteros ed b oro,0.8068525791168213
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,3,113,oscuridad noche,0.7980543375015259
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,4,171,misterio aguila,0.7634322047233582
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,5,51,valle prohibido,0.7362943887710571
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,6,267,camelot,0.7334669828414917
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,7,6,conde montecristo tomo i ed b oro,0.7288315296173096
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,8,164,diosa serpiente,0.7282031774520874
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,9,377,secreto ilse,0.7253389358520508
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Word2Vec,Similitud,10,10,8,flor lis,0.7218329906463623
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,1,1,164,diosa serpiente,0.8387715816497803
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,3,1,164,diosa serpiente,0.8387715816497803
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,3,2,171,misterio aguila,0.8266260623931885
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,3,3,217,ruta sangrienta,0.8107227683067322
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,5,1,164,diosa serpiente,0.8387715816497803
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,5,2,171,misterio aguila,0.8266260623931885
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,5,3,217,ruta sangrienta,0.8107227683067322
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,5,4,136,mision attica,0.8083850145339966
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,5,5,162,paz cruel,0.8057247400283813
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,1,164,diosa serpiente,0.8387715816497803
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,2,171,misterio aguila,0.8266260623931885
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,3,217,ruta sangrienta,0.8107227683067322
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,4,136,mision attica,0.8083850145339966
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,5,162,paz cruel,0.8057247400283813
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,6,88,tierra sol luna,0.8045213222503662
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,7,377,secreto ilse,0.8015624284744263
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,8,237,leyendas caucaso estepa,0.8015509843826294
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,9,185,poema gilgamesh trad rafael jimenez zamudio,0.7998063564300537
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,SBW,Similitud,10,10,205,theodoros,0.7968116998672485
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,1,1,266,negro narcissus,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,3,1,266,negro narcissus,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,3,2,6,conde montecristo tomo i ed b oro,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,3,3,197,allan egipto antiguo allan,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,5,1,266,negro narcissus,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,5,2,6,conde montecristo tomo i ed b oro,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,5,3,197,allan egipto antiguo allan,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,5,4,124,memorias cienfuegos,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,5,5,107,dibujante peces,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,1,266,negro narcissus,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,2,6,conde montecristo tomo i ed b oro,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,3,197,allan egipto antiguo allan,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,4,124,memorias cienfuegos,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,5,107,dibujante peces,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,6,172,charlie fabrica chocolate ilus quentin blake,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,7,326,fragilidad imperio,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,8,229,tarzan ciudad oro,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,9,212,precioso testamento,
+9,¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?,Azar,Orden aleatorio,10,10,340,valor,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,1,1,9,mosqueteros ed b oro,0.24914576410908582
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,3,1,9,mosqueteros ed b oro,0.24914576410908582
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,3,2,332,tinta fuego,0.07977494757935355
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,3,3,32,mision paris,0.06910651490315824
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,5,1,9,mosqueteros ed b oro,0.24914576410908582
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,5,2,332,tinta fuego,0.07977494757935355
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,5,3,32,mision paris,0.06910651490315824
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,5,4,223,siete casas francia,0.0645359622997961
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,5,5,283,acabar pesadilla,0.06212014760405368
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,1,9,mosqueteros ed b oro,0.24914576410908582
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,2,332,tinta fuego,0.07977494757935355
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,3,32,mision paris,0.06910651490315824
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,4,223,siete casas francia,0.0645359622997961
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,5,283,acabar pesadilla,0.06212014760405368
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,6,82,silencios atlantico,0.0609874996124155
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,7,242,esposa allan,0.05662513826455345
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,8,195,momo ed original,0.05524569907261085
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,9,30,marca roja,0.05175398781113645
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,TF-IDF,Similitud,10,10,68,biblioteca niebla,0.04952614497376195
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,1,1,9,mosqueteros ed b oro,0.4642968475818634
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,3,1,9,mosqueteros ed b oro,0.4642968475818634
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,3,2,388,ultima mirada goya,0.3974413573741913
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,3,3,237,leyendas caucaso estepa,0.3844089210033417
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,5,1,9,mosqueteros ed b oro,0.4642968475818634
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,5,2,388,ultima mirada goya,0.3974413573741913
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,5,3,237,leyendas caucaso estepa,0.3844089210033417
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,5,4,397,hijos clumba,0.3668895661830902
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,5,5,360,sombra alejandro,0.3647440969944
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,1,9,mosqueteros ed b oro,0.4642968475818634
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,2,388,ultima mirada goya,0.3974413573741913
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,3,237,leyendas caucaso estepa,0.3844089210033417
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,4,397,hijos clumba,0.3668895661830902
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,5,360,sombra alejandro,0.3647440969944
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,6,224,virada,0.3597760796546936
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,7,230,cabo hornos vela,0.32921096682548523
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,8,362,inmortal,0.326618492603302
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,9,343,historias amor odio,0.3252674341201782
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SentenceTransformer,Similitud,10,10,81,mil aventuras,0.3218369483947754
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,1,1,125,viajero resplandor luna,0.7366520166397095
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,3,1,125,viajero resplandor luna,0.7366520166397095
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,3,2,163,lineas rojas,0.7343630790710449
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,3,3,9,mosqueteros ed b oro,0.7244018912315369
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,5,1,125,viajero resplandor luna,0.7366520166397095
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,5,2,163,lineas rojas,0.7343630790710449
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,5,3,9,mosqueteros ed b oro,0.7244018912315369
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,5,4,56,hijo furia,0.7225671410560608
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,5,5,263,beau geste trad leon arsenal,0.7029945850372314
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,1,125,viajero resplandor luna,0.7366520166397095
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,2,163,lineas rojas,0.7343630790710449
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,3,9,mosqueteros ed b oro,0.7244018912315369
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,4,56,hijo furia,0.7225671410560608
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,5,263,beau geste trad leon arsenal,0.7029945850372314
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,6,16,eneida version prosa,0.6997230052947998
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,7,189,hijo virrey,0.6977291703224182
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,8,76,cristalian españa,0.6975154876708984
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,9,155,gran libro rey arturo caballeros mesa redonda,0.697374701499939
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Word2Vec,Similitud,10,10,371,argonauticas,0.6932231783866882
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,1,1,81,mil aventuras,0.8122093677520752
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,3,1,81,mil aventuras,0.8122093677520752
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,3,2,155,gran libro rey arturo caballeros mesa redonda,0.810096263885498
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,3,3,373,mitos fabulas galaxia,0.7923882007598877
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,5,1,81,mil aventuras,0.8122093677520752
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,5,2,155,gran libro rey arturo caballeros mesa redonda,0.810096263885498
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,5,3,373,mitos fabulas galaxia,0.7923882007598877
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,5,4,15,historia sainville leonore,0.7904248237609863
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,5,5,32,mision paris,0.7887372970581055
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,1,81,mil aventuras,0.8122093677520752
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,2,155,gran libro rey arturo caballeros mesa redonda,0.810096263885498
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,3,373,mitos fabulas galaxia,0.7923882007598877
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,4,15,historia sainville leonore,0.7904248237609863
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,5,32,mision paris,0.7887372970581055
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,6,76,cristalian españa,0.7846205234527588
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,7,263,beau geste trad leon arsenal,0.7801368236541748
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,8,28,hazañas brigadier gerard trad amando lazaro ros,0.778989315032959
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,9,387,leyendas,0.775364339351654
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,SBW,Similitud,10,10,139,aventuras arsene lupin ladron caballero,0.7739311456680298
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,1,1,63,manzanas oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,3,1,63,manzanas oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,3,2,162,paz cruel,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,3,3,283,acabar pesadilla,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,5,1,63,manzanas oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,5,2,162,paz cruel,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,5,3,283,acabar pesadilla,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,5,4,73,hija capitan ed b oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,5,5,189,hijo virrey,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,1,63,manzanas oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,2,162,paz cruel,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,3,283,acabar pesadilla,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,4,73,hija capitan ed b oro,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,5,189,hijo virrey,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,6,281,hermano costa,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,7,366,piel,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,8,320,panteon flotante,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,9,395,corazones plomo,
+10,¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?,Azar,Orden aleatorio,10,10,253,aventurero escritor,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,1,1,281,hermano costa,0.08375108054929703
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,3,1,281,hermano costa,0.08375108054929703
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,3,2,300,invierno infierno,0.07791869907616412
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,3,3,332,tinta fuego,0.07071158703978223
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,5,1,281,hermano costa,0.08375108054929703
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,5,2,300,invierno infierno,0.07791869907616412
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,5,3,332,tinta fuego,0.07071158703978223
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,5,4,328,robinson crusoe il n c wyeth trad julio cortazar,0.06927280549445801
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,5,5,106,historia apolonio rey tiro,0.05811796859373271
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,1,281,hermano costa,0.08375108054929703
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,2,300,invierno infierno,0.07791869907616412
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,3,332,tinta fuego,0.07071158703978223
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,4,328,robinson crusoe il n c wyeth trad julio cortazar,0.06927280549445801
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,5,106,historia apolonio rey tiro,0.05811796859373271
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,6,242,esposa allan,0.04888581169132836
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,7,54,caballero siete reinos ilustrado,0.04649357394281316
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,8,30,marca roja,0.04587413373255717
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,9,338,guardia rey,0.04445552522873515
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",TF-IDF,Similitud,10,10,68,biblioteca niebla,0.04389939971534882
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,1,1,397,hijos clumba,0.39850717782974243
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,3,1,397,hijos clumba,0.39850717782974243
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,3,2,224,virada,0.394889235496521
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,3,3,168,isla mujer dormida,0.3696078658103943
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,5,1,397,hijos clumba,0.39850717782974243
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,5,2,224,virada,0.394889235496521
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,5,3,168,isla mujer dormida,0.3696078658103943
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,5,4,148,motin caine,0.343982458114624
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,5,5,225,chancellor,0.3365030288696289
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,1,397,hijos clumba,0.39850717782974243
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,2,224,virada,0.394889235496521
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,3,168,isla mujer dormida,0.3696078658103943
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,4,148,motin caine,0.343982458114624
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,5,225,chancellor,0.3365030288696289
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,6,281,hermano costa,0.3332374095916748
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,7,143,cefalox cibercalamar,0.3323945999145508
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,8,117,atolon,0.3241826891899109
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,9,189,hijo virrey,0.32388946413993835
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SentenceTransformer,Similitud,10,10,92,benito cereno cuentos mar,0.31783950328826904
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,1,1,196,pentameron,0.7295955419540405
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,3,1,196,pentameron,0.7295955419540405
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,3,2,343,historias amor odio,0.7189954519271851
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,3,3,92,benito cereno cuentos mar,0.7071231603622437
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,5,1,196,pentameron,0.7295955419540405
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,5,2,343,historias amor odio,0.7189954519271851
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,5,3,92,benito cereno cuentos mar,0.7071231603622437
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,5,4,371,argonauticas,0.6794934272766113
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,5,5,30,marca roja,0.6785597801208496
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,1,196,pentameron,0.7295955419540405
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,2,343,historias amor odio,0.7189954519271851
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,3,92,benito cereno cuentos mar,0.7071231603622437
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,4,371,argonauticas,0.6794934272766113
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,5,30,marca roja,0.6785597801208496
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,6,50,irregulares baker street,0.6653912663459778
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,7,28,hazañas brigadier gerard trad amando lazaro ros,0.6647729873657227
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,8,56,hijo furia,0.661251425743103
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,9,123,cuentos populares ingleses,0.6611658334732056
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Word2Vec,Similitud,10,10,217,ruta sangrienta,0.6603471636772156
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,1,1,326,fragilidad imperio,0.8707238435745239
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,3,1,326,fragilidad imperio,0.8707238435745239
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,3,2,352,scaramouche novela ilustrada,0.8691378831863403
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,3,3,26,ze,0.8630988001823425
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,5,1,326,fragilidad imperio,0.8707238435745239
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,5,2,352,scaramouche novela ilustrada,0.8691378831863403
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,5,3,26,ze,0.8630988001823425
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,5,4,375,lord corsario,0.8630071878433228
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,5,5,184,matamonstruos,0.8628444671630859
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,1,326,fragilidad imperio,0.8707238435745239
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,2,352,scaramouche novela ilustrada,0.8691378831863403
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,3,26,ze,0.8630988001823425
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,4,375,lord corsario,0.8630071878433228
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,5,184,matamonstruos,0.8628444671630859
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,6,211,oscuro capitan blackdawn,0.8599416613578796
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,7,73,hija capitan ed b oro,0.8596720099449158
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,8,236,tarzan invencible,0.857125461101532
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,9,342,madriguera zorro,0.8571045398712158
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",SBW,Similitud,10,10,213,oliver twist ed alba,0.8549611568450928
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,1,1,258,infinitas horas mans,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,3,1,258,infinitas horas mans,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,3,2,138,iader,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,3,3,77,hechicero,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,5,1,258,infinitas horas mans,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,5,2,138,iader,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,5,3,77,hechicero,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,5,4,209,lorenzo ferrer maldonado misterio paso noroeste,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,5,5,174,marino españa,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,1,258,infinitas horas mans,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,2,138,iader,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,3,77,hechicero,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,4,209,lorenzo ferrer maldonado misterio paso noroeste,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,5,174,marino españa,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,6,339,johnny blackdawn,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,7,265,viejo montaña,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,8,218,cielo sangre,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,9,237,leyendas caucaso estepa,
+11,"¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",Azar,Orden aleatorio,10,10,110,veinte mil leguas viaje submarino,

@@ -1,32 +1,74 @@
 [
 	{
-		"consulta": "¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?"
+		"consulta": "¿Qué libros narran la historia de un cómico investigado por una inspectora tras un incendio en un teatro?",
+		"relevantes": [
+			"Persiguiendo a Bécquer",
+			"Bécquer en París"
+		]
 	},
 	{
-		"consulta": "¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?"
+		"consulta": "¿Qué libros cuentan una aventura en busca del tesoro de Barbanegra?",
+		"relevantes": [
+			"La canción de Hands",
+			"La isla del tesoro (il. N. C. Wyeth; trad. Francisco Torres Oliver)",
+			"Tres corazones"
+		]
 	},
 	{
-		"consulta": "¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?"
+		"consulta": "¿Qué libros describen batallones disciplinarios de la Wehrmacht durante la Segunda Guerra Mundial?",
+		"relevantes": [
+			"Batallón disciplinario",
+			"Ejecución"
+		]
 	},
 	{
-		"consulta": "¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?"
+		"consulta": "¿Qué libros presentan una historia de mafia, poder y romance en Nueva York?",
+		"relevantes": [
+			"King"
+		]
 	},
 	{
-		"consulta": "¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?"
+		"consulta": "¿Qué libros narran la búsqueda de un tesoro templario oculto bajo una ciudad italiana?",
+		"relevantes": [
+			"El guardián de los dioses"
+		]
 	},
 	{
-		"consulta": "¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?"
+		"consulta": "¿Qué libros relatan una lucha medieval entre ángeles caídos y humanos durante la peste negra?",
+		"relevantes": [
+			"Entre dos fuegos"
+		]
 	},
 	{
-		"consulta": "¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?"
+		"consulta": "¿Qué libros narran la venganza de Edmundo Dantès tras ser encarcelado injustamente?",
+		"relevantes": [
+			"El conde de Montecristo (tomo I) (Ed. B. Oro)"
+		]
 	},
 	{
-		"consulta": "¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?"
+		"consulta": "¿Qué libros ambientados en la Revolución Francesa combinan venganza y amor?",
+		"relevantes": [
+			"Mía será la venganza",
+			"Scaramouche (Novela ilustrada)"
+		]
 	},
 	{
-		"consulta": "¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?"
+		"consulta": "¿Qué libros narran un amor prohibido durante conflictos militares y conspiraciones políticas?",
+		"relevantes": [
+			"Flor de Lis"
+		]
 	},
 	{
-		"consulta": "¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?"
+		"consulta": "¿Qué libros relatan la llegada de d’Artagnan a París y sus aventuras con los tres mosqueteros?",
+		"relevantes": [
+			"Los tres mosqueteros (Ed. B. Oro)"
+		]
+	},
+	{
+		"consulta": "¿Qué libros narran el cautiverio de un marinero traicionado por sus rivales, que planea su desquite gracias a un anciano compañero de celda?",
+		"relevantes": [
+			"El conde de Montecristo (tomo I) (Ed. B. Oro)"
+		],
+		"tipo": "sin_palabras_compartidas"
 	}
 ]
