@@ -9,3 +9,5 @@ jupyterlab
 ipykernel
 matplotlib
 scikit-learn
+langdetect
+spacy

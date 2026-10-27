@@ -102,6 +102,7 @@ python -m venv .venv
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 playwright install chromium
+python -m spacy download es_core_news_lg
 ```
 
 ### Linux o macOS
@@ -112,6 +113,7 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 playwright install chromium
+python3 -m spacy download es_core_news_lg
 ```
 
 En Linux, si Chromium no puede iniciarse por dependencias del sistema, ejecutá `playwright install-deps`. Si el sistema usa `pip3` en lugar de `pip` (y `python3` en lugar de `python`), reemplazá los comandos respectivamente.
