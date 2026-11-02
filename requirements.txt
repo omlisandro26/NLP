@@ -11,3 +11,5 @@ matplotlib
 scikit-learn
 langdetect
 spacy
+numpy
+Levenshtein
