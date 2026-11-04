@@ -1,267 +1,265 @@
 slug,motivo
+la-isla-de-robinson,regex
+el-genero-y-nuestros-cerebros-la-nueva-neurociencia-que-rompe-el-mito-del-cerebro-femenino,"regex, clasificador_tfidf"
+que-quedara-de-nosotros,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-castillo-de-los-escritores,"regex, clasificador_tfidf, clasificador_embeddings"
+cronica-del-faro-4,"regex, clasificador_tfidf, copia_catalogo"
+juan-martin-el-empecinado,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+bajo-la-tormenta,"regex, copia_catalogo"
+no-las-llames-chicas-llamalas-futbolistas-del-maltrato-al-reconocimiento-la-lucha-por-la-igualdad-en-el-futbol,"regex, clasificador_tfidf, muestra_etiquetada"
+no-se-donde-esta-el-limite-pero-si-se-donde-no-esta,"regex, clasificador_tfidf, clasificador_embeddings"
+el-secreto-del-faro,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+el-camino-de-la-llanura-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+educar-genera-conciencia-domesticar-obediencia,"regex, clasificador_tfidf"
+una-realidad-aparte,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+exploraciones-secretas-en-asia,regex
+el-gigante-egoista-y-otros-cuentos-ilustrado,regex
+la-zona-fantasma-2015,"regex, clasificador_embeddings, copia_catalogo"
+patente-de-corso-2015,"regex, clasificador_embeddings"
+la-ultima-colmena,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-camino-de-la-estacion-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+sherlock-holmes,"regex, clasificador_tfidf, muestra_etiquetada"
+tradiciones-peruanas,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+yo-no-soy-sherlock-holmes,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+espana-terra-incognita,"regex, clasificador_tfidf, muestra_etiquetada"
+sobre-el-cielo-y-la-tierra,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+las-cuatro-torres-de-babel,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+de-sapos-a-principes,regex
+el-secreto-del-bosque,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+un-desafio-en-el-polo,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-ultimos-cien-dias-de-hitler,"regex, clasificador_tfidf, muestra_etiquetada"
+los-100-mejores-juegos-de-ingenio,regex
+que-pasaria-si,regex
+reforzar-los-cimientos,"regex, clasificador_tfidf"
+temas-lentos,"regex, clasificador_tfidf, muestra_etiquetada"
+bajo-la-colmena-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+historia-de-la-ciencia-ficcion-moderna,"regex, clasificador_tfidf, muestra_etiquetada"
+el-caos,"regex, clasificador_tfidf"
+la-ley-del-mus,regex
+yo-no-se-de-otras-cosas,"regex, clasificador_tfidf, clasificador_embeddings"
+liquidacion-2,"regex, clasificador_tfidf, clasificador_embeddings"
+cardamomo,"regex, clasificador_tfidf, muestra_etiquetada"
+sombras-sobre-el-viajero,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+las-cuatro-revelaciones,"regex, clasificador_tfidf, clasificador_embeddings"
+los-hijos-de-la-isla-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+el-camino-de-la-llanura,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-camino-de-la-isla,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+como-el-rio-que-fluye,"regex, muestra_etiquetada"
+vita-brevis,"regex, clasificador_tfidf, clasificador_embeddings"
+cronica-del-silencio,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-agrio,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+cronica-del-relojero,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+salvatierra,regex
+el-secreto-del-invierno,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-prueba-de-hierro,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+nada-es-para-siempre,"regex, clasificador_tfidf, clasificador_embeddings"
+trono-de-cristal,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+el-angel-blanco,regex
+elisa-liliana-bodoc,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+secretos-online,regex
+cronica-del-faro-3,"regex, clasificador_tfidf, copia_catalogo"
+amores-que-matan-elia-barcelo,"regex, clasificador_embeddings"
+la-soledad-del-perro,"regex, clasificador_tfidf"
+mentiras-piadosas-jacqueline-winspear,"regex, clasificador_tfidf"
+la-ultima-oportunidad,"regex, clasificador_tfidf, clasificador_embeddings"
+un-grito-desesperado,"regex, clasificador_tfidf, muestra_etiquetada"
+memorias-del-bosque-3,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+mas-alla-13,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+atravese-las-bardenas,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+la-ideologia-de-genero,"regex, clasificador_tfidf, clasificador_embeddings"
+saca-tiempo-para-ti,"regex, clasificador_tfidf, clasificador_embeddings"
+locos-de-amor,"regex, clasificador_tfidf, clasificador_embeddings"
+fragmentos-de-la-comedia-nueva,"regex, clasificador_tfidf, clasificador_embeddings"
+el-yngenio-en-palacio,"regex, clasificador_tfidf, clasificador_embeddings"
+los-crimenes-del-invisible,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+tuneles-blancos,"regex, clasificador_tfidf, muestra_etiquetada"
+blasfemia,"regex, clasificador_tfidf, muestra_etiquetada"
+navegando-en-solitario-alrededor-del-mundo,"regex, clasificador_tfidf, clasificador_embeddings"
+tenian-ombligo-adan-y-eva,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+trejo,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-sinsentido-del-sentido-o-el-sentido-del-sinsentido,"regex, clasificador_tfidf, clasificador_embeddings"
+los-archivos-personales-de-ingmar-bergman,"regex, clasificador_tfidf, clasificador_embeddings"
+los-hijos-de-la-colmena,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+diccionario-filosofico,"regex, clasificador_tfidf, clasificador_embeddings"
+los-anos-itinerantes-wilhelm-meister,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-imperio-final-ed-ilustrada,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-hijos-de-la-estacion-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-opus-dei-controversia-y-camino,"regex, clasificador_tfidf, clasificador_embeddings"
+economia-descubierta,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+cronica-del-bosque,"regex, copia_catalogo"
+el-anillo-del-rey-salomon,regex
+los-hijos-de-la-marea,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-huella-del-diablo,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+the-new-real-book-volumen-1,"regex, clasificador_tfidf, clasificador_embeddings"
+teatro-breve-del-siglo-de-oro,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+diverso-es,regex
+poesias-completas-pedro-salinas,"regex, clasificador_tfidf"
+memorias-del-puerto,"regex, copia_catalogo"
+50-leyes-del-poder-en-el-padrino,"regex, clasificador_tfidf, clasificador_embeddings"
+el-candelabro-enterrado,"regex, clasificador_tfidf, muestra_etiquetada"
+el-principe-sylvain-reynard,"regex, clasificador_tfidf"
+bajo-la-frontera,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-precio-de-ser-madre,"regex, clasificador_tfidf, clasificador_embeddings"
+por-que-las-mujeres-disfrutan-mas-del-sexo-bajo-el-socialismo,"regex, clasificador_tfidf, muestra_etiquetada"
+una-juventud-en-tiempo-de-dictadura,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+edipo-en-colono,"regex, clasificador_tfidf"
+estados-alterados,regex
+los-hijos-de-la-estacion,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-puerta,"regex, clasificador_tfidf, clasificador_embeddings"
+mas-alla-y-otros-cuentos,"regex, clasificador_tfidf, clasificador_embeddings"
+escuela-de-ajedrez,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+discotecas-por-fuera,regex
+la-inquilina-de-wildfell-hall,regex
+sombras-sobre-el-desierto,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+medio-rey,"regex, clasificador_tfidf, clasificador_embeddings"
+transposiciones,"regex, clasificador_tfidf, clasificador_embeddings"
+el-secreto-del-desierto,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+no-sera-la-tierra,"regex, clasificador_tfidf, clasificador_embeddings"
+la-disciplina-de-la-vanidad,"regex, clasificador_tfidf"
+cancion-de-navidad,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+mi-alma-en-china,"regex, clasificador_tfidf, clasificador_embeddings"
+los-asesinos-fredric-brown,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-trampa-fabulosa,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+laberinto-eduardo-antonio-parra,"regex, clasificador_tfidf"
+rusia-revolucion-y-guerra-civil-1917-1921,"regex, clasificador_tfidf"
+el-cerebro-bilingue,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-extrano-senor-photynos,"regex, clasificador_tfidf"
+diario-de-un-espanol-cansado,"regex, clasificador_tfidf, clasificador_embeddings"
+escritos-de-un-viejo-indecente,regex
+historia-de-una-mujer-soltera,"regex, clasificador_tfidf"
+una-semana-de-lluvia,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+lluvia-roja,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+como-enfrentarte-al-cancer,"regex, clasificador_tfidf, clasificador_embeddings"
+invitado-a-una-decapitacion,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+gramaticas-extraterrestres,"regex, clasificador_tfidf, clasificador_embeddings"
+los-hijos-de-la-frontera,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-ultima-herencia,"regex, copia_catalogo"
+pintura-figurativa-del-siglo-xx,regex
+salvador-dali,"regex, clasificador_tfidf, clasificador_embeddings"
+la-mascara-negra,"regex, clasificador_tfidf, clasificador_embeddings"
+el-miedo-y-la-esperanza,"regex, clasificador_tfidf, clasificador_embeddings"
+sombras-sobre-el-rio,"regex, clasificador_embeddings, copia_catalogo"
+el-caldero-magico,"regex, clasificador_tfidf, clasificador_embeddings"
+iniciacion,"regex, clasificador_tfidf, clasificador_embeddings"
+convergencias,"regex, clasificador_tfidf, clasificador_embeddings"
+ciclos-del-tiempo,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+ya-esta-el-listo-que-todo-lo-sabe,regex
+dejad-a-los-ninos-en-paz,regex
+sombras-sobre-el-relojero,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+bumeran-chavez,"regex, clasificador_tfidf, muestra_etiquetada"
+futbolistas-de-izquierdas,"regex, clasificador_tfidf, clasificador_embeddings"
+cuentos-para-los-hombres-que-son-todavia-ninos,"regex, clasificador_tfidf"
+el-secreto-del-rio,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+lo-que-freud-le-diria-a-spielberg,"regex, clasificador_tfidf, clasificador_embeddings"
+memorias-del-faro-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+tan-humana-esperanza,"regex, clasificador_tfidf, muestra_etiquetada"
+el-camino-de-la-herencia,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+los-hijos-de-la-llanura-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+memorias-del-bosque-2,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+la-nina-que-amaba-las-cerillas,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+cronica-del-viajero,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-malentendido-irene-nemirovsky,"regex, clasificador_tfidf"
+miedo-pablo-poveda,"regex, clasificador_tfidf"
+barrio-cero,"regex, clasificador_tfidf"
+el-siglo-xix-literatura-romantica,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+bajo-la-isla,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+la-novena,regex
+memorias-del-faro,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+tratados-hipocraticos-ii,"regex, clasificador_tfidf, clasificador_embeddings"
+happiness,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+donde-los-angeles-no-se-aventuran,"regex, clasificador_tfidf, clasificador_embeddings"
+la-patria-capicua,regex
+en-la-corte-de-ronnie,"regex, clasificador_tfidf, clasificador_embeddings"
+aventuras-venturas-y-desventuras-de-un-cazador-a-rabo,"regex, clasificador_tfidf, clasificador_embeddings"
+el-doble-dos-versiones-1846-y-1866,regex
+chulapos-mambo,"regex, clasificador_tfidf"
+cancion-de-cuna-barbara-wood,"regex, clasificador_tfidf, clasificador_embeddings"
+el-arte-de-la-defensa,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+las-flores-del-mal-trad-p-provencio,"regex, clasificador_tfidf"
+en-el-nombre-del-padre-mario-escobar,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-fenicios,"regex, clasificador_tfidf, clasificador_embeddings"
+levi-strauss,regex
+memorias-del-silencio,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+los-hijos-de-la-isla,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+aprende-a-gestionar-los-periodos-de-crisis-laboral,"regex, clasificador_tfidf, clasificador_embeddings"
+ama-de-la-muerte,"regex, idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+los-hijos-de-la-llanura,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-rey-del-bosforo,"regex, clasificador_tfidf, clasificador_embeddings"
+el-hombre-terminal,regex
+historias-desde-la-cadena-de-montaje,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+historia-de-la-estupidez-humana,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-regreso-del-nativo,regex
+patente-de-corso-2013,"regex, clasificador_embeddings"
+la-zona-fantasma-2013,"regex, clasificador_embeddings, copia_catalogo"
+memorias-del-bosque,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+los-hijos-de-la-promesa,"regex, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+depeche-mode-las-letras-81-13,"regex, clasificador_embeddings"
+despues-de-safo,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-novela-posible,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+te-digo-mas,"regex, clasificador_tfidf, clasificador_embeddings"
+gataca,"regex, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+nuevo-manual-de-gastronomia-molecular,"regex, clasificador_tfidf, clasificador_embeddings"
+a-su-manera,"regex, clasificador_tfidf"
+keops-y-la-piramide-del-sol,"regex, clasificador_tfidf, clasificador_embeddings"
+un-lugar-incierto,"regex, clasificador_tfidf"
 atlantida-el-reino-del-olvido,idioma_extranjero
-la-vida-cotidiana-en-pompeya,copia_catalogo
-la-isla-de-robinson,regex_url
-el-nombre-en-el-muro,copia_catalogo
-la-ultima-estacion,copia_catalogo
-el-genero-y-nuestros-cerebros-la-nueva-neurociencia-que-rompe-el-mito-del-cerebro-femenino,regex_url
-que-quedara-de-nosotros,regex_url
-la-profecia-de-orion,copia_catalogo
-el-libro-de-san-cipriano,idioma_extranjero
+el-libro-de-san-cipriano,"idioma_extranjero, clasificador_embeddings"
 semilla-salvaje,idioma_extranjero
-imperio-victor-conde,copia_catalogo
-la-fisica-de-las-palabras,copia_catalogo
 la-cultura-de-la-cancelacion-en-estados-unidos,idioma_extranjero
-el-castillo-de-los-escritores,regex_url
-cronica-del-faro-4,"regex_url, copia_catalogo"
-como-se-escribe-un-guion,idioma_extranjero
+como-se-escribe-un-guion,"idioma_extranjero, clasificador_embeddings"
 mata-a-tus-idolos,idioma_extranjero
-hamlet,copia_catalogo
-juan-martin-el-empecinado,regex_url
-cotufas-en-el-golfo,copia_catalogo
-bajo-la-tormenta,"regex_url, copia_catalogo"
-no-las-llames-chicas-llamalas-futbolistas-del-maltrato-al-reconocimiento-la-lucha-por-la-igualdad-en-el-futbol,regex_url
-bajo-la-isla-2,copia_catalogo
-confesiones-de-un-cule-defectuoso,idioma_extranjero
-los-conquistadores-de-lo-inutil,copia_catalogo
-no-se-donde-esta-el-limite-pero-si-se-donde-no-esta,regex_url
+confesiones-de-un-cule-defectuoso,"idioma_extranjero, clasificador_embeddings"
 alimentar-a-la-bestia,idioma_extranjero
-el-secreto-del-faro,"regex_url, copia_catalogo"
-el-camino-de-la-llanura-2,"regex_url, copia_catalogo"
-recaredo-y-su-epoca,copia_catalogo
-la-aventura-de-los-conquistadores,copia_catalogo
-indecentes,idioma_extranjero
-un-corazon-habitado-por-mil-voces,idioma_extranjero
-los-dias-que-no-existieron,copia_catalogo
-educar-genera-conciencia-domesticar-obediencia,regex_url
-el-metodo-zettelkasten,idioma_extranjero
-sombras-sobre-el-rio-2,copia_catalogo
-una-realidad-aparte,regex_url
+indecentes,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+un-corazon-habitado-por-mil-voces,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-metodo-zettelkasten,"idioma_extranjero, clasificador_embeddings"
 sangre-de-dragon,idioma_extranjero
-exploraciones-secretas-en-asia,regex_url
-he-vencido-al-mundo,copia_catalogo
-dormir-sin-lagrimas,copia_catalogo
-la-lengua-latina-libros-v-vi,idioma_extranjero
-el-gigante-egoista-y-otros-cuentos-ilustrado,regex_url
+la-lengua-latina-libros-v-vi,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 las-carreras-de-escorpio,idioma_extranjero
-mentes-poderosas,copia_catalogo
-cronica-del-silencio-2,copia_catalogo
-torneo-de-terror,copia_catalogo
-la-amenaza-del-dueno-del-tiempo,copia_catalogo
-el-desafio-del-caballero-lobo,copia_catalogo
-la-venganza-del-caballero-halcon,copia_catalogo
-el-castillo-del-cuervo-maldito,copia_catalogo
-los-caballeros-fantasmas-de-camelot,copia_catalogo
-quien-secuestro-a-la-princesa-saralinda,copia_catalogo
-presidio,copia_catalogo
 la-nina-del-tren,idioma_extranjero
-las-infinitas-vidas-de-euclides-historia-del-libro-que-forjo-nuestro-mundo,copia_catalogo
 memorias-y-aventuras,idioma_extranjero
-una-voz-en-la-niebla,idioma_extranjero
+una-voz-en-la-niebla,"idioma_extranjero, clasificador_embeddings"
 la-venganza-de-las-punks,idioma_extranjero
-la-zona-fantasma-2015,"regex_url, copia_catalogo"
-patente-de-corso-2015,"regex_url, copia_catalogo"
-la-ultima-colmena,"regex_url, copia_catalogo"
-el-camino-de-la-estacion-2,"regex_url, copia_catalogo"
-sherlock-holmes,regex_url
-tradiciones-peruanas,"regex_url, idioma_extranjero"
-las-grandes-preguntas-de-los-ninos-y-las-sencillas-respuestas-de-los-grandes-expertos,copia_catalogo
-sombras-sobre-el-bosque,copia_catalogo
 somos-la-leche,idioma_extranjero
-umbra-vitae,idioma_extranjero
-yo-no-soy-sherlock-holmes,"regex_url, idioma_extranjero"
-espana-terra-incognita,regex_url
+umbra-vitae,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
 nueva-dimension-25,idioma_extranjero
 moleculas-en-una-exposicion,idioma_extranjero
 la-soledad-de-sonia-y-sunny,idioma_extranjero
-sobre-el-cielo-y-la-tierra,regex_url
-las-cuatro-torres-de-babel,regex_url
-hamlet-ed-clasicos-a-medida,copia_catalogo
-el-camino-de-la-frontera,copia_catalogo
-no-podras-esconderte,copia_catalogo
-nivel-26,copia_catalogo
-el-destino-celeste,idioma_extranjero
-el-secreto-del-silencio,copia_catalogo
-de-sapos-a-principes,regex_url
-cronica-del-bosque-2,copia_catalogo
-el-secreto-del-bosque,"regex_url, copia_catalogo"
-el-misterio-de-la-barba-roja,idioma_extranjero
-un-desafio-en-el-polo,regex_url
-los-ultimos-cien-dias-de-hitler,regex_url
-los-100-mejores-juegos-de-ingenio,regex_url
-la-edad-del-futuro-i,copia_catalogo
-que-pasaria-si,regex_url
-reforzar-los-cimientos,regex_url
-temas-lentos,regex_url
-las-uvas-de-la-ira,copia_catalogo
-bajo-la-colmena-2,"regex_url, copia_catalogo"
-el-ultimo-lector,copia_catalogo
-historia-de-la-ciencia-ficcion-moderna,regex_url
-teoria-poetica-y-estetica,idioma_extranjero
-el-caos,regex_url
-peter-pan,copia_catalogo
-la-pequena-comunista-no-sonreia-nunca,copia_catalogo
-la-ley-del-mus,regex_url
-yo-no-se-de-otras-cosas,regex_url
-liquidacion-2,regex_url
-cardamomo,regex_url
-sobre-el-conocimiento,copia_catalogo
+el-destino-celeste,"idioma_extranjero, clasificador_embeddings"
+el-misterio-de-la-barba-roja,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+teoria-poetica-y-estetica,"idioma_extranjero, clasificador_embeddings"
 el-italiano,idioma_extranjero
-el-espiritu-de-las-leyes,idioma_extranjero
+el-espiritu-de-las-leyes,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 una-violencia-indomita,idioma_extranjero
-unidos-por-el-escandalo,copia_catalogo
-sombras-sobre-el-viajero,"regex_url, copia_catalogo"
-las-cuatro-revelaciones,regex_url
 antologia-de-la-literatura-fantastica,idioma_extranjero
-memorias-del-bosque-4,copia_catalogo
-los-hijos-de-la-isla-2,"regex_url, copia_catalogo"
-el-camino-de-la-llanura,"regex_url, copia_catalogo"
-la-fuerza-de-la-no-violencia,idioma_extranjero
-hacia-un-saber-sobre-el-alma,copia_catalogo
-el-camino-de-la-isla,"regex_url, copia_catalogo"
+la-fuerza-de-la-no-violencia,"idioma_extranjero, clasificador_embeddings"
 elizabeth-finch,idioma_extranjero
-como-el-rio-que-fluye,regex_url
-vita-brevis,regex_url
-cronica-del-silencio,"regex_url, copia_catalogo"
-el-agrio,"regex_url, idioma_extranjero"
-cronica-del-relojero,"regex_url, copia_catalogo"
-salvatierra,regex_url
-obras-completas-german-rozenmacher,copia_catalogo
-el-secreto-del-invierno,"regex_url, copia_catalogo"
-los-templarios-malcolm-barber,copia_catalogo
-la-prueba-de-hierro,regex_url
-nada-es-para-siempre,regex_url
-trono-de-cristal,"regex_url, idioma_extranjero"
-bosque-los-suenos-desorientan,copia_catalogo
-el-angel-blanco,regex_url
-elisa-liliana-bodoc,regex_url
-secretos-online,regex_url
-la-condicion-obrera,copia_catalogo
-cronica-del-faro-3,"regex_url, copia_catalogo"
-amores-que-matan-elia-barcelo,regex_url
-la-soledad-del-perro,regex_url
-mentiras-piadosas-jacqueline-winspear,regex_url
-cordura-y-locura-en-cervantes,copia_catalogo
-la-ultima-oportunidad,regex_url
-un-grito-desesperado,regex_url
-memorias-del-bosque-3,"regex_url, copia_catalogo"
-mas-alla-13,regex_url
-atravese-las-bardenas,"regex_url, idioma_extranjero"
-la-ideologia-de-genero,regex_url
-los-hijos-de-la-llanura-3,copia_catalogo
+mas-alla-10,idioma_extranjero
 avaricia-jess-gr,idioma_extranjero
-las-luces-del-siglo,idioma_extranjero
+las-luces-del-siglo,"idioma_extranjero, clasificador_embeddings"
 una-atrevida-y-dulce-venganza,idioma_extranjero
-saca-tiempo-para-ti,regex_url
 los-nuevos-leviatanes,idioma_extranjero
-espana-aparta-de-mi-estos-premios,copia_catalogo
-locos-de-amor,regex_url
-fragmentos-de-la-comedia-nueva,regex_url
-el-yngenio-en-palacio,regex_url
-como-crear-una-mente,copia_catalogo
-los-crimenes-del-invisible,regex_url
-tuneles-blancos,regex_url
-blasfemia,regex_url
-navegando-en-solitario-alrededor-del-mundo,regex_url
-el-greco-y-su-epoca,copia_catalogo
 la-noche-alemana,idioma_extranjero
-tenian-ombligo-adan-y-eva,regex_url
-memorias-del-relojero,copia_catalogo
-richard-p-feynman-la-fisica-de-las-palabras,copia_catalogo
-trejo,"regex_url, idioma_extranjero"
-el-sinsentido-del-sentido-o-el-sentido-del-sinsentido,regex_url
-los-archivos-personales-de-ingmar-bergman,regex_url
-el-tren-de-jaen,idioma_extranjero
-los-hijos-de-la-colmena,"regex_url, copia_catalogo"
-el-tiempo-envejece-deprisa,idioma_extranjero
-enciclopedia-eslava,copia_catalogo
-la-fascinante-historia-de-las-palabras,copia_catalogo
-diccionario-filosofico,regex_url
-los-anos-itinerantes-wilhelm-meister,regex_url
-el-imperio-final-ed-ilustrada,"regex_url, idioma_extranjero"
-los-hijos-de-la-estacion-2,"regex_url, copia_catalogo"
-el-opus-dei-controversia-y-camino,regex_url
-maria,idioma_extranjero
-economia-descubierta,regex_url
+el-tren-de-jaen,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-tiempo-envejece-deprisa,"idioma_extranjero, clasificador_embeddings"
+maria,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 amor-se-escribe-con-h-y-otras-maneras-de-decirte-que-te-quiero,idioma_extranjero
 el-rey-de-amarillo,idioma_extranjero
-cronica-del-bosque,"regex_url, copia_catalogo"
-el-anillo-del-rey-salomon,regex_url
-los-hijos-de-la-marea,"regex_url, copia_catalogo"
-la-huella-del-diablo,"regex_url, idioma_extranjero"
-the-new-real-book-volumen-1,regex_url
-teatro-breve-del-siglo-de-oro,"regex_url, idioma_extranjero"
-las-grandes-preguntas-los-ninos-las-sencillas-respuestas-los-grandes-expertos,copia_catalogo
-diverso-es,regex_url
-poesias-completas-pedro-salinas,regex_url
-memorias-del-puerto,"regex_url, copia_catalogo"
-50-leyes-del-poder-en-el-padrino,regex_url
-bajo-la-llanura,copia_catalogo
-nueva-dimension-7,copia_catalogo
-nueva-dimension-61,copia_catalogo
 nueva-dimension-extra-4,idioma_extranjero
-la-financiacion-de-la-guerra-civil-espanola,idioma_extranjero
-el-candelabro-enterrado,regex_url
-el-principe-sylvain-reynard,regex_url
-bajo-la-frontera,"regex_url, copia_catalogo"
-la-revolucion-de-la-glucosa,idioma_extranjero
-el-precio-de-ser-madre,regex_url
-historia-de-la-violacion-siglos-xvi-xx,idioma_extranjero
-por-que-las-mujeres-disfrutan-mas-del-sexo-bajo-el-socialismo,regex_url
-una-juventud-en-tiempo-de-dictadura,regex_url
-bodas-de-sangre,copia_catalogo
-edipo-en-colono,regex_url
-los-lobos-del-centeno,idioma_extranjero
-estados-alterados,regex_url
-los-hijos-de-la-estacion,"regex_url, copia_catalogo"
+la-financiacion-de-la-guerra-civil-espanola,"idioma_extranjero, clasificador_embeddings"
+la-revolucion-de-la-glucosa,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+historia-de-la-violacion-siglos-xvi-xx,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-lobos-del-centeno,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 el-rey-de-los-osos,idioma_extranjero
-la-puerta,regex_url
-el-hombre-en-busca-de-sentido,copia_catalogo
-el-camino-de-la-estacion,copia_catalogo
-isis,copia_catalogo
-mas-alla-y-otros-cuentos,regex_url
-escuela-de-ajedrez,regex_url
-el-peregrino-de-compostela,copia_catalogo
-la-ultima-noche,copia_catalogo
-discotecas-por-fuera,regex_url
 de-caligari-a-hitler,idioma_extranjero
-hamlet-bilingue,idioma_extranjero
-la-inquilina-de-wildfell-hall,regex_url
-sombras-sobre-el-desierto,"regex_url, copia_catalogo"
-doctor-inalcanzable,copia_catalogo
-la-ultima-tormenta,copia_catalogo
-medio-rey,regex_url
-transposiciones,regex_url
-el-secreto-del-desierto,"regex_url, copia_catalogo"
-no-sera-la-tierra,regex_url
-la-jornada-de-un-periodista-americano-en-2889-edicion-shjv,copia_catalogo
-la-jornada-de-un-periodista-americano-en-2890-edicion-shjv,copia_catalogo
-cronica-del-faro-2,copia_catalogo
+hamlet-bilingue,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 uno-por-dinero,idioma_extranjero
-la-disciplina-de-la-vanidad,regex_url
-la-isla-de-tenopia,idioma_extranjero
-cancion-de-navidad,regex_url
-misterio-del-fugitivo,copia_catalogo
-elvira-de-hidalgo,copia_catalogo
-mi-alma-en-china,regex_url
+la-isla-de-tenopia,"idioma_extranjero, clasificador_embeddings"
 tirando-del-hilo-articulos-1949-2000,idioma_extranjero
-poesia-popular-de-la-china-antigua,idioma_extranjero
-los-asesinos-fredric-brown,"regex_url, idioma_extranjero"
-la-trampa-fabulosa,regex_url
-laberinto-eduardo-antonio-parra,regex_url
-rusia-revolucion-y-guerra-civil-1917-1921,regex_url
-viaje-a-la-revolucion,copia_catalogo
-el-cerebro-bilingue,"regex_url, idioma_extranjero"
-el-mundo-de-las-palabras,copia_catalogo
-el-extrano-senor-photynos,regex_url
-diario-de-un-espanol-cansado,regex_url
-escritos-de-un-viejo-indecente,regex_url
-historia-de-una-mujer-soltera,regex_url
-la-justicia-de-franco,copia_catalogo
-una-semana-de-lluvia,regex_url
+poesia-popular-de-la-china-antigua,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+nueva-dimension-14,idioma_extranjero
 ciencia-ficcion-seleccion-13,idioma_extranjero
 ciencia-ficcion-seleccion-12,idioma_extranjero
-lluvia-roja,"regex_url, idioma_extranjero"
 los-mejores-cuentos-de-terror,idioma_extranjero
 ciencia-ficcion-seleccion-11,idioma_extranjero
 ciencia-ficcion-seleccion-17,idioma_extranjero
@@ -269,138 +267,346 @@ ciencia-ficcion-octava-seleccion,idioma_extranjero
 ciencia-ficcion-septima-seleccion,idioma_extranjero
 ciencia-ficcion-sexta-seleccion,idioma_extranjero
 anoche-sone-mariposas,idioma_extranjero
-como-enfrentarte-al-cancer,regex_url
-cronica-del-faro,copia_catalogo
-el-vampiro-una-nueva-historia,idioma_extranjero
-invitado-a-una-decapitacion,regex_url
-gramaticas-extraterrestres,regex_url
-los-hijos-de-la-frontera,"regex_url, copia_catalogo"
-la-ultima-herencia,"regex_url, copia_catalogo"
-el-asiento-numero-27,idioma_extranjero
-pintura-figurativa-del-siglo-xx,regex_url
-salvador-dali,regex_url
-la-mascara-negra,regex_url
-el-miedo-y-la-esperanza,regex_url
-sin-novedad-en-el-frente-erich-maria-remarque,copia_catalogo
-sombras-sobre-el-rio,"regex_url, copia_catalogo"
-el-caldero-magico,regex_url
+el-vampiro-una-nueva-historia,"idioma_extranjero, clasificador_embeddings"
+el-asiento-numero-27,"idioma_extranjero, clasificador_embeddings"
 brasyl,idioma_extranjero
-iniciacion,regex_url
-convergencias,regex_url
-ciclos-del-tiempo,"regex_url, idioma_extranjero"
-ya-esta-el-listo-que-todo-lo-sabe,regex_url
-dejad-a-los-ninos-en-paz,regex_url
-sombras-sobre-el-silencio,copia_catalogo
-opiniones-de-un-payaso,idioma_extranjero
-sombras-sobre-el-relojero,"regex_url, copia_catalogo"
-teleshakespeare,copia_catalogo
-bumeran-chavez,regex_url
-el-volga-nace-en-europa,idioma_extranjero
-futbolistas-de-izquierdas,regex_url
-cuentos-para-los-hombres-que-son-todavia-ninos,regex_url
+opiniones-de-un-payaso,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-volga-nace-en-europa,"idioma_extranjero, clasificador_embeddings"
 1985,idioma_extranjero
-el-secreto-del-rio,"regex_url, copia_catalogo"
-lo-que-freud-le-diria-a-spielberg,regex_url
-creatividad,copia_catalogo
-memorias-del-faro-2,"regex_url, copia_catalogo"
-altamira,copia_catalogo
-tan-humana-esperanza,regex_url
-el-camino-de-la-herencia,"regex_url, copia_catalogo"
-los-hijos-de-la-llanura-2,"regex_url, copia_catalogo"
-microsiervos,copia_catalogo
-misterio-de-la-sombra-riente,copia_catalogo
-memorias-del-bosque-2,"regex_url, copia_catalogo"
-la-nina-que-amaba-las-cerillas,"regex_url, idioma_extranjero"
-derecho-natural,copia_catalogo
-la-retirada,copia_catalogo
-cronica-del-viajero,"regex_url, copia_catalogo"
-piel-negra-mascaras-blancas,copia_catalogo
-el-malentendido-irene-nemirovsky,regex_url
-miedo-pablo-poveda,regex_url
-barrio-cero,regex_url
-el-siglo-xix-literatura-romantica,regex_url
-bajo-la-isla,"regex_url, copia_catalogo"
-la-novena,regex_url
-memorias-del-faro,"regex_url, copia_catalogo"
-tratados-hipocraticos-ii,regex_url
-reinventar-el-amor-como-el-patriarcado-sabotea-las-relaciones-heterosexuales,idioma_extranjero
-happiness,regex_url
-donde-los-angeles-no-se-aventuran,regex_url
-la-dorotea,idioma_extranjero
-la-patria-capicua,regex_url
-bajo-la-colmena,copia_catalogo
-piensa-como-un-artista,idioma_extranjero
-el-vuelo-del-fenix,copia_catalogo
-en-frio,copia_catalogo
-el-conde-de-montecristo,copia_catalogo
-en-la-corte-de-ronnie,regex_url
-aventuras-venturas-y-desventuras-de-un-cazador-a-rabo,regex_url
-la-biblia-del-ajedrez-para-ninos-vol-2,copia_catalogo
-la-biblia-epl-del-ajedrez-para-ninos-vol-1-y-vol-2,copia_catalogo
-historia-de-la-filosofia,copia_catalogo
-el-camino-de-la-noche,copia_catalogo
+como-pensar-como-sherlock-holmes,idioma_extranjero
+reinventar-el-amor-como-el-patriarcado-sabotea-las-relaciones-heterosexuales,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+la-dorotea,"idioma_extranjero, clasificador_embeddings"
+piensa-como-un-artista,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 mi-historia-michelle-obama,idioma_extranjero
-patty-diphusa,copia_catalogo
-la-tribu-de-los-lagos,idioma_extranjero
-una-manana-de-marzo,copia_catalogo
-el-doble-dos-versiones-1846-y-1866,regex_url
-el-castillo-de-llyr,copia_catalogo
-operacion-stormbreaker,copia_catalogo
-chulapos-mambo,regex_url
-cancion-de-cuna-barbara-wood,regex_url
-el-arte-de-la-defensa,regex_url
-las-flores-del-mal-trad-p-provencio,regex_url
-poemas-dispersos,idioma_extranjero
-el-caso-mas-dificil,copia_catalogo
-la-compania-de-las-liendres,idioma_extranjero
-el-instinto,idioma_extranjero
-cien-noches,idioma_extranjero
-en-el-nombre-del-padre-mario-escobar,regex_url
-los-fenicios,regex_url
-demonios-en-la-sombra,copia_catalogo
+la-tribu-de-los-lagos,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
+poemas-dispersos,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-compania-de-las-liendres,"idioma_extranjero, clasificador_embeddings"
+el-instinto,"idioma_extranjero, clasificador_tfidf"
+cien-noches,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 no-se-que-espera,idioma_extranjero
-con-franco-viviamos-mejor,copia_catalogo
-el-fin-del-mundo-es-solo-el-comienzo,idioma_extranjero
-levi-strauss,regex_url
+el-fin-del-mundo-es-solo-el-comienzo,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 una-navidad-diferente,idioma_extranjero
-memorias-del-silencio,"regex_url, copia_catalogo"
-chantaje-mortal-r-l-stine,copia_catalogo
 cita-sangrienta,idioma_extranjero
-grita-jennifer-grita,idioma_extranjero
+grita-jennifer-grita,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 el-coloso-de-nueva-york,idioma_extranjero
-tras-os-montes,copia_catalogo
-aprende-a-disenar-tu-estrategia-de-marquetin-digital,idioma_extranjero
-los-hijos-de-la-isla,"regex_url, copia_catalogo"
-aprende-a-gestionar-los-periodos-de-crisis-laboral,regex_url
+aprende-a-disenar-tu-estrategia-de-marquetin-digital,"idioma_extranjero, clasificador_embeddings"
 la-hija-de-la-medianoche,idioma_extranjero
-ama-de-la-muerte,"regex_url, idioma_extranjero"
-los-hijos-de-la-llanura,"regex_url, copia_catalogo"
-el-rey-del-bosforo,regex_url
-el-hombre-terminal,regex_url
-robots-pensantes,idioma_extranjero
-por-que-la-teoria-de-la-evolucion-es-verdadera,copia_catalogo
-historias-desde-la-cadena-de-montaje,regex_url
-historia-de-la-estupidez-humana,regex_url
-cartas-marruecas,copia_catalogo
-el-regreso-del-nativo,regex_url
-patente-de-corso-2013,"regex_url, copia_catalogo"
-la-zona-fantasma-2013,"regex_url, copia_catalogo"
-artur-mas-donde-esta-mi-dinero,idioma_extranjero
-memorias-del-bosque,"regex_url, copia_catalogo"
+robots-pensantes,"idioma_extranjero, clasificador_embeddings"
+artur-mas-donde-esta-mi-dinero,"idioma_extranjero, clasificador_embeddings"
 campos-de-muerte,idioma_extranjero
-libros-contra-el-aburrimiento,idioma_extranjero
+libros-contra-el-aburrimiento,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings"
 nadie-hace-el-amor-con-un-ladron,idioma_extranjero
-seduciendo-al-jugador,idioma_extranjero
-los-hijos-de-la-promesa,"regex_url, copia_catalogo"
-depeche-mode-las-letras-81-13,regex_url
+seduciendo-al-jugador,"idioma_extranjero, clasificador_embeddings"
 la-mujer-con-el-tatuaje,idioma_extranjero
-despues-de-safo,regex_url
-la-novela-posible,regex_url
-te-digo-mas,regex_url
-el-ultimatum-de-bourne,copia_catalogo
-gataca,regex_url
-misterio-del-fantasma-verde,"idioma_extranjero, copia_catalogo"
-nuevo-manual-de-gastronomia-molecular,regex_url
-a-su-manera,regex_url
-keops-y-la-piramide-del-sol,regex_url
-un-lugar-incierto,regex_url
+misterio-del-fantasma-verde,"idioma_extranjero, clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-mundo-de-la-arqueologia,clasificador_tfidf
+un-imperio-de-ingenieros,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-suenos-drolaticos-de-pantagruel,clasificador_tfidf
+el-fin-de-la-ansiedad,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-ultima-estacion,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-isla-de-la-mujer-dormida,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+huesos-piedras-y-estrellas,clasificador_tfidf
+a-cuerpo-abierto,clasificador_tfidf
+la-fabrica-de-suenos,clasificador_tfidf
+haneke-por-haneke,clasificador_tfidf
+se-habla-espanol,clasificador_tfidf
+dos-fantasias-memorables-un-modelo-para-la-muerte,clasificador_tfidf
+rayografia,clasificador_tfidf
+bajo-la-isla-2,"clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+nunca-fuimos-mas-felices,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+gliff,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+capitalismo-canibal,clasificador_tfidf
+mi-primer-libro-de-educacion-financiera-2,clasificador_tfidf
+sombras-sobre-el-rio-2,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+elogio-del-imbecil,"clasificador_tfidf, clasificador_embeddings"
+el-camino-de-la-vida,clasificador_tfidf
+historia-de-la-fisica-del-universo,clasificador_tfidf
+nikola-tesla,clasificador_tfidf
+las-recetas-de-el-comidista,clasificador_tfidf
+italiano-para-dummies,clasificador_tfidf
+el-libro-de-los-gatos-habilidosos-del-viejo-possum,clasificador_tfidf
+cronica-del-silencio-2,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+curso-de-programacion-python,"clasificador_tfidf, clasificador_embeddings"
+la-venganza-del-caballero-halcon,"clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+activa-tus-genes,clasificador_tfidf
+vitaminados,clasificador_tfidf
+sombras-sobre-el-bosque,"clasificador_tfidf, clasificador_embeddings, copia_catalogo, muestra_etiquetada"
+donde-vais-a-encontrar-un-padre-como-el-mio,clasificador_tfidf
+cantos-orficos,clasificador_tfidf
+entre-este-y-oeste,"clasificador_tfidf, clasificador_embeddings"
+civilizacion-en-transicion,clasificador_tfidf
+seis-mujeres-criminales,"clasificador_tfidf, clasificador_embeddings"
+las-munecas-de-la-corona,"clasificador_tfidf, clasificador_embeddings"
+textos-recobrados-1931-1955,"clasificador_tfidf, clasificador_embeddings"
+los-domingos,"clasificador_tfidf, clasificador_embeddings"
+la-biblia-paso-a-paso,"clasificador_tfidf, clasificador_embeddings"
+jesus-de-nazaret,clasificador_tfidf
+autodestruccion-woke,clasificador_tfidf
+una-teoria-critica-de-la-inteligencia-artificial,"clasificador_tfidf, clasificador_embeddings"
+gustar-y-emocionar-un-ensayo-sobre-la-sociedad-de-seduccion,clasificador_tfidf
+el-camino-de-la-frontera,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+nivel-26,"clasificador_tfidf, copia_catalogo"
+el-secreto-del-silencio,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+eso-no-estaba-en-mi-libro-de-prehistoria,clasificador_tfidf
+religio-medici-e-hydriotaphia,clasificador_tfidf
+cronica-del-bosque-2,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-tren-de-las-310-a-yuma-y-otros-relatos-del-oeste,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+maternofobia,clasificador_tfidf
+teoria-y-practica-de-la-adaptacion,"clasificador_tfidf, clasificador_embeddings"
+escuela-de-ajedrez-2-basico,clasificador_tfidf
+escuela-de-ajedrez-1-inicio,clasificador_tfidf
+la-pequena-comunista-no-sonreia-nunca,clasificador_tfidf
+la-oracion-de-la-rana,"clasificador_tfidf, clasificador_embeddings"
+alejandro-magno-paul-cartledge,clasificador_tfidf
+yo-tu-nosotras,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-biblia-contada-para-escepticos,clasificador_tfidf
+el-punto-ciego,"clasificador_tfidf, clasificador_embeddings"
+oliver-knight,"clasificador_tfidf, clasificador_embeddings"
+obras-vol-2,"clasificador_tfidf, clasificador_embeddings"
+la-montana-del-penacho-blanco,clasificador_tfidf
+el-ultimo-viaje-coleccion-oz-nebula,"clasificador_tfidf, clasificador_embeddings"
+memorias-del-bosque-4,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+libros-profeticos-ii,clasificador_tfidf
+la-ecuacion-de-dios,"clasificador_tfidf, clasificador_embeddings"
+still-william,clasificador_tfidf
+just-listen,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+jumper,clasificador_tfidf
+bosque-los-suenos-desorientan,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-campana-de-jade,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-noche-de-todas-las-almas,clasificador_tfidf
+pequeno-cerdo-capitalista,"clasificador_tfidf, clasificador_embeddings"
+cien-historias-en-torno-a-the-beatles,clasificador_tfidf
+gothia-muerte-en-barcinona,"clasificador_tfidf, clasificador_embeddings"
+los-cuatro-amores,clasificador_tfidf
+de-la-noche-a-la-manana,clasificador_tfidf
+maldito-hamor,clasificador_tfidf
+el-innombrable-trad-matias-battiston,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-hijos-de-la-llanura-3,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+bajo-el-hechizo-de-la-luna-escocesa,clasificador_tfidf
+si-es-perfecto-no-es-amor,"clasificador_tfidf, clasificador_embeddings"
+el-espejo,"clasificador_tfidf, clasificador_embeddings"
+logra-que-tu-hijo-se-divierta-aprendiendo,"clasificador_tfidf, clasificador_embeddings"
+atrapadas-en-el-limbo,clasificador_tfidf
+el-nuevo-kama-sutra-ilustrado,clasificador_tfidf
+el-caso-snowden,clasificador_tfidf
+cadaver-puzzle,clasificador_tfidf
+embajada-a-tamorlan,"clasificador_tfidf, clasificador_embeddings"
+la-mujer-de-la-estrella-azul,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-vida-de-las-abejas,clasificador_tfidf
+memorias-del-relojero,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+dos-hermanos,clasificador_tfidf
+el-martin-fierro,"clasificador_tfidf, clasificador_embeddings"
+esperandolo-a-tito-y-otros-cuentos-de-futbol,clasificador_tfidf
+el-diccionario-del-mago,clasificador_tfidf
+sin-blanca-en-paris-y-londres-trad-jose-miguel-velloso,"clasificador_tfidf, clasificador_embeddings"
+necropolis,"clasificador_tfidf, clasificador_embeddings"
+el-nudo,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+dominancia-realidad-o-ficcion,clasificador_tfidf
+tan-fiera-tan-fragil,"clasificador_tfidf, clasificador_embeddings"
+vale-la-pena-luchar,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+el-concepto-del-continuum,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+erik-vogler-la-venganza,clasificador_tfidf
+bajo-la-llanura,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+la-cena-en-beaucaire,clasificador_tfidf
+se-lo-decimos-al-presidente,clasificador_tfidf
+basta-ya-de-ser-un-tipo-lindo,"clasificador_tfidf, clasificador_embeddings"
+desconexion,clasificador_tfidf
+los-papeles-de-aspern,clasificador_tfidf
+el-enviado-2,clasificador_tfidf
+entre-vampiros,clasificador_tfidf
+mujeres-poderosas,clasificador_tfidf
+solas-aun-acompanadas,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+esclavas-del-poder,"clasificador_tfidf, clasificador_embeddings"
+los-pergaminos,"clasificador_tfidf, clasificador_embeddings"
+disenando-apps-para-moviles,"clasificador_tfidf, clasificador_embeddings"
+cuando-la-criptografia-falla,"clasificador_tfidf, clasificador_embeddings"
+como-antano-david,clasificador_tfidf
+etica-marica-proclamas-libertarias-para-una-militancia-lgtbq,clasificador_tfidf
+el-camino-de-la-estacion,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+cuadernos-de-notas,clasificador_tfidf
+cuba-dictadura-democracia,clasificador_tfidf
+el-arbol-de-la-ciencia,clasificador_tfidf
+la-voluntad-5-la-caida,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+musica-para-camaleones,clasificador_tfidf
+el-libro-de-arena,clasificador_tfidf
+el-tapiz-amarillo,clasificador_tfidf
+escuela-de-ajedrez-3-intermedio,clasificador_tfidf
+la-ultima-noche,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+ausencia-del-heroe,clasificador_tfidf
+twisted-hate,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-ultima-tormenta,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+finge-que-me-quieres,"clasificador_tfidf, clasificador_embeddings"
+hitler-estudio-de-una-tirania-i,clasificador_tfidf
+aquiles-o-el-guerrillero-y-el-asesino,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+cronica-del-faro-2,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+almas-de-segunda-mano,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+los-escarabajos-vuelan-al-atardecer,clasificador_tfidf
+un-amigo-gratis,"clasificador_tfidf, clasificador_embeddings"
+capitanes-intrepidos-ed-clasicos-a-medida,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+come-as-you-are-la-historia-de-nirvana,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-reina-del-punk,clasificador_tfidf
+de-cuerpo-presente-julian-rathbone,"clasificador_tfidf, clasificador_embeddings"
+la-potencia-reticente-la-nueva-alemania-vista-de-cerca,"clasificador_tfidf, clasificador_embeddings"
+the-buenos-aires-affair,clasificador_tfidf
+cronica-del-faro,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+agua-fresca-en-los-espejos,"clasificador_tfidf, clasificador_embeddings"
+el-desafio-del-amor,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+orden-matar-a-tito,clasificador_tfidf
+matematicas-recreativas-yakov-perelman,clasificador_tfidf
+sombras-sobre-el-silencio,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+londres-virginia-woolf,"clasificador_tfidf, clasificador_embeddings"
+la-rastra,"clasificador_tfidf, clasificador_embeddings"
+ciudades-de-fuego,clasificador_tfidf
+dijo-el-buda,clasificador_tfidf
+callejon-con-salida,clasificador_tfidf
+el-plantador-de-tabaco,"clasificador_tfidf, clasificador_embeddings"
+la-batalla-del-marne,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+memorias-de-una-vaca,clasificador_tfidf
+la-bruja-mon,clasificador_tfidf
+misterio-en-la-clinica,clasificador_tfidf
+peta-z,clasificador_tfidf
+sedienta,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+las-novias-de-rufo-y-trufo,"clasificador_tfidf, clasificador_embeddings"
+el-adulto,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+histerias-ficticias,clasificador_tfidf
+quijote,"clasificador_tfidf, muestra_etiquetada"
+una-guirnalda-de-rosas,"clasificador_tfidf, clasificador_embeddings"
+bajo-la-colmena,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+libro-de-la-fantasia,"clasificador_tfidf, clasificador_embeddings"
+lentas-pasan-las-horas-junto-al-rio,"clasificador_tfidf, clasificador_embeddings"
+la-flotante-san-cristobal,clasificador_tfidf
+mil-millones-de-anos-hasta-el-fin-del-mundo,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+godel-los-teoremas-de-incompletitud,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+terrorismo-mediatico,"clasificador_tfidf, clasificador_embeddings"
+la-escafandra-y-la-mariposa,clasificador_tfidf
+agustina-la-payasa,clasificador_tfidf
+50-supermodelos-de-papiroflexia,clasificador_tfidf
+el-camino-de-la-noche,"clasificador_tfidf, clasificador_embeddings, copia_catalogo"
+el-senor-de-la-tarde,clasificador_tfidf
+la-mosca,"clasificador_tfidf, clasificador_embeddings"
+espana-jose-maria-carrascal,clasificador_tfidf
+brilla-entre-las-nubes,clasificador_tfidf
+poemas-rompecabezas-de-animalotes-y-animalillos,clasificador_tfidf
+el-caldero-magico-2,clasificador_tfidf
+saluda-al-asesino,"clasificador_tfidf, clasificador_embeddings"
+viernes-de-dolores,"clasificador_tfidf, clasificador_embeddings"
+teatro-completo-anton-chejov,clasificador_tfidf
+historia-del-libro,"clasificador_tfidf, clasificador_embeddings"
+los-origenes-de-la-civilizacion,"clasificador_tfidf, clasificador_embeddings"
+adapta-tu-comunicacion-a-las-redes-sociales,"clasificador_tfidf, clasificador_embeddings"
+murcielagos,"clasificador_tfidf, clasificador_embeddings, muestra_etiquetada"
+la-punta-del-iceberg,clasificador_tfidf
+sobrevivir-la-gran-leccion-del-reino-animal,clasificador_tfidf
+hijos-de-matrix,clasificador_tfidf
+por-que-perdimos-la-guerra,"clasificador_tfidf, clasificador_embeddings"
+las-nieves-de-antano-la-ocupacion-americana,clasificador_tfidf
+las-gafas-del-diablo,"clasificador_tfidf, clasificador_embeddings"
+hilda-y-la-gran-cabalgata,"clasificador_tfidf, clasificador_embeddings"
+descubre-el-camino,clasificador_tfidf
+pide-un-deseo,clasificador_tfidf
+seis-primos-en-la-granja,"clasificador_tfidf, clasificador_embeddings"
+nico-el-huracan,"clasificador_tfidf, clasificador_embeddings"
+los-caminos-de-la-seda,clasificador_embeddings
+el-contrato-social,clasificador_embeddings
+la-historia-secreta-anabel-hernandez,clasificador_embeddings
+viajando-con-megan-maxwell,clasificador_embeddings
+breve-historia-del-futbol,clasificador_embeddings
+inmanencia,clasificador_embeddings
+20-grandes-conspiraciones-de-la-historia,clasificador_embeddings
+the-iron-king-el-rey-de-hierro,clasificador_embeddings
+la-ciudad-de-las-luces-muertas,clasificador_embeddings
+1080-recetas-de-cocina,clasificador_embeddings
+dominando-chatgpt-en-30-dias,clasificador_embeddings
+tu-clave-es-jonas,clasificador_embeddings
+el-mar-detras,clasificador_embeddings
+inventemos-bitcoin,clasificador_embeddings
+leibniz-el-calculo-infinitesimal,clasificador_embeddings
+el-gran-libro-de-la-opera,clasificador_embeddings
+costumbres-venezolanas,clasificador_embeddings
+mama-come-sano-alimentacion-saludable-en-el-embarazo-y-la-lactancia,clasificador_embeddings
+el-senor-del-carnaval,clasificador_embeddings
+el-espia-ingles-ramon-illan-bacca-linares,clasificador_embeddings
+copia-este-libro,clasificador_embeddings
+bruce-willis-retratos,clasificador_embeddings
+el-arte-de-la-magia,clasificador_embeddings
+guillermo-tell,clasificador_embeddings
+un-manual-para-la-ascension,clasificador_embeddings
+el-chico-que-salvo-la-navidad,clasificador_embeddings
+santa-este-ano-voy-a-ser-mala,clasificador_embeddings
+behemoth,clasificador_embeddings
+onyx,clasificador_embeddings
+la-cueva-del-tiempo,clasificador_embeddings
+operacion-kazan,clasificador_embeddings
+pequeno-cerdo-capitalista-inversiones-para-hippies-yuppies-y-bohemios,clasificador_embeddings
+cartas-a-renata,clasificador_embeddings
+seal-team-six,clasificador_embeddings
+cuidado-con-los-deseos-se-pueden-cumplir,clasificador_embeddings
+conoce-a-gente-por-internet,clasificador_embeddings
+hotel-de-horrores,clasificador_embeddings
+arana-hombre,clasificador_embeddings
+domina-el-arte-de-hablar-en-publico,clasificador_embeddings
+descubrelo-todo-sobre-la-contratacion,clasificador_embeddings
+la-montana-viva,clasificador_embeddings
+las-hormigas,clasificador_embeddings
+la-culpa-la-vaca-vol-1,clasificador_embeddings
+el-fraude-perfecto,clasificador_embeddings
+la-cuarentena,clasificador_embeddings
+todo-lo-que-podriamos-haber-sido-tu-y-yo-si-no-fueramos-tu-y-yo,clasificador_embeddings
+abriendo-puertas,clasificador_embeddings
+siempre-ocurre-lo-inesperado,clasificador_embeddings
+cuadernos-1957-1972,clasificador_embeddings
+el-amigo-del-desierto,clasificador_embeddings
+the-new-real-book-vol-3,clasificador_embeddings
+the-new-real-book-vol-2,clasificador_embeddings
+nueva-dimension-61,clasificador_embeddings
+axxon,clasificador_embeddings
+cuentos-las-orillas-del-rin,clasificador_embeddings
+luces-y-franjas-rojas,clasificador_embeddings
+erase-una-vez-un-numero,clasificador_embeddings
+la-batalla-de-hastings,clasificador_embeddings
+el-abanico-dorado,clasificador_embeddings
+para-que-sirve-realmente-la-etica,clasificador_embeddings
+la-suma-mas-dificil-del-mundo,clasificador_embeddings
+patrones-de-diseno-elementos-de-software-orientado-a-objetos-reutilizable,clasificador_embeddings
+bastilla-tango,clasificador_embeddings
+el-alarido-de-yauri,clasificador_embeddings
+el-extrano-orden-de-las-cosas,clasificador_embeddings
+el-lado-oscuro-de-la-red,clasificador_embeddings
+jennifer-gobierno,clasificador_embeddings
+como-explicar-fisica-cuantica-con-un-gato-zombi,clasificador_embeddings
+cuarenta-y-un-intentos-fallidos,clasificador_embeddings
+la-ciudad-de-la-furia,clasificador_embeddings
+sexualmente,clasificador_embeddings
+cruising,clasificador_embeddings
+diario-de-martin-lobo,clasificador_embeddings
+juliette-o-las-prosperidades-del-vicio,clasificador_embeddings
+1974,clasificador_embeddings
+el-rostro-de-la-sombra,clasificador_embeddings
+el-mundo-sobre-ruedas,clasificador_embeddings
+una-mirada-fria-al-calentamiento-global,clasificador_embeddings
+el-faro-del-fin-del-mundo,clasificador_embeddings
+lectura-veloz-incrementa-tu-velocidad-lectora,clasificador_embeddings
+cuentos-completos-iv,clasificador_embeddings
+historias-de-jorge-2,clasificador_embeddings
+cielo-rojo,clasificador_embeddings
+las-maravillas,clasificador_embeddings
+el-caso-del-youtuber-tropical,clasificador_embeddings
+pareja-fecha-de-caducidad,clasificador_embeddings
+diez-razones-para-borrar-tus-redes-sociales-de-inmediato,clasificador_embeddings
+aprende-a-prevenir-el-burnout,clasificador_embeddings
+la-soledad-de-la-reina,clasificador_embeddings
+paris-era-una-fiesta,clasificador_embeddings
+requiem-lauren-oliver,clasificador_embeddings
+despues-del-liberalismo,clasificador_embeddings
+la-ruta-del-aventurero,clasificador_embeddings
+la-creacion-del-universo,clasificador_embeddings
+la-mujer-con-el-corazon-lleno-de-tormentas,clasificador_embeddings
+recaredo-y-su-epoca,copia_catalogo
+la-amenaza-del-dueno-del-tiempo,copia_catalogo
+el-desafio-del-caballero-lobo,copia_catalogo
+el-castillo-del-cuervo-maldito,copia_catalogo
+los-caballeros-fantasmas-de-camelot,copia_catalogo
+las-grandes-preguntas-de-los-ninos-y-las-sencillas-respuestas-de-los-grandes-expertos,copia_catalogo
+richard-p-feynman-la-fisica-de-las-palabras,copia_catalogo
+la-jornada-de-un-periodista-americano-en-2889-edicion-shjv,copia_catalogo
+altamira,copia_catalogo

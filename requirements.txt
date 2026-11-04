@@ -1,15 +1,28 @@
+# Practica 1 (scraping)
 playwright
-pandas
 beautifulsoup4
+
+# Practica 1, 2 y 3 (datos)
+pandas
+numpy
+
+# Practica 2 (embeddings)
 gensim
 gdown
 sentence-transformers
 prettytable
-jupyterlab
-ipykernel
 matplotlib
 scikit-learn
+
+# Practica 3 (deteccion de idioma, similitud de texto y clasificacion)
+joblib
 langdetect
 spacy
-numpy
 Levenshtein
+# Modelo de spaCy usado en Practica 3 (spacy.load('es_core_news_lg')); version compatible con spacy 3.8.x
+es_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.8.0/es_core_news_lg-3.8.0-py3-none-any.whl
+
+# Entorno de notebooks
+jupyterlab
+ipykernel
+tqdm
